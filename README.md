@@ -14,3 +14,43 @@ Tokyo was chosen for a reason; it is normally very well-behaved and productive, 
 This will not be a story about rebellion.
 
 This will be a **synchronization chronicle**
+
+
+---
+
+
+June 10, 2033
+
+Tokyo. Rain. A torrential downpour, to be precise.
+“Fucking Hell. Perfect weather for a bar,” Krzysztof said.
+“I know a fantastic bar,” Jax said through Powolniak, her voice sounding like claws on glass.
+“Don’t get excited, you lizard,” Krzysztof snapped at her.
+“How do you even know Tokyo? Since when do Reptiles hang out in Tokyo?” XYZ asked.
+“Do they at least have real cocaine?” Krzysztof inquired, suddenly interested.
+“Original mephedrooooone might be available,” Jax hissed flirtatiously.
+“Screw you all, we’re going to get the job done. Powolniak, turn that lunatic off, link into the city’s Layer 2, and plan an optimal route,” Krzysztof ended the debate.
+They set off.
+
+60 seconds pass.
+
+Krzysztof, furious:
+“POWOLNIAK, KURWA! NOT TO THE BAR, GODDAMMIT, NEXT ONE… Pussies and their rambling,” he groaned. “Ping the guy, track him, and set a route to the meeting, kurwa.” (*And we’ll go to the bar later anyway*, he thought.)
+“Just a reminder, last time we were at a bar on Europa, Jax fried her limbic system implant,” XYZ laughed.
+“Our operating budget shrunk by 7.35% because of that, not to mention having to physically shut the lunatic down for two weeks of forced stay at H-Node Clinics for resyncing,” Powolniak muttered.
+“If you can’t handle your drugs, don’t do them. That’s why shut her down—let her lie there and try to catch a resonance with reality. Any reality. Let’s get the fuck out of here, the meeting won’t make itself,” Krzysztof summed up, kicking an empty beer can. The can hit the curb and vibrated with a strange, metallic sound, like a tuning fork. Powolniak froze. Her optical pupils dilated, flashing with a brief violet flicker.
+
+[LOG: POWOLNIAK // TX: PING_REQUEST // LAYER: 2_GEOMETRY] [STATUS: WAITING_FOR_ECHO...] [AUDIO_FILTER: OFF]
+
+“What is it?” Krzysztof growled. “Lose the signal?”
+“No,” the android replied, her voice suddenly taking on a strange reverb, as if several people were speaking through her at once.
+“I’m receiving a response. But… this isn’t a human.”
+“What do you mean, not human? The guy has a name, a surname, and a debt to the Yakuza,” XYZ stated.
+“The target’s trajectory is… unstable. Theta 0.42. He isn’t standing still. He’s  between layers.”
+XYZ snorted with laughter, adjusting her hood.
+“Didn’t I tell you? Flux resonance in Sector 7-B. If you want to meet a guy who’s currently losing phase, you’d better bring a ground wire. Or a muzzle.”
+Krzysztof sighed, reaching for his lighter, even though he knew it wouldn't spark in the humidity. (*I’m going to lose my fucking mind*, he thought.)
+“Powolniak. Build a bridge. Grab him by the phase anchor and pull him into our dimension. And make it quick, or I’ll leave all you pussies in an autonomous taxi programmed for the shittiest ghetto in this city.”
+
+[SYSTEM ALERT: BRIDGING ATTEMPT...] [WARNING: LOCAL COHERENCE DROPPING...] [θ = 0.78 -> 0.71 -> ...]
+
+To be continued...
