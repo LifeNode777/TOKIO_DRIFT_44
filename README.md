@@ -68,6 +68,7 @@ Humanity’s first-ever month-long urban experiment greenlit by the Archipelago 
 * a massive block party,
 * collective therapy,
 * and a **controlled civilizational drift**.
+  
  Critical infra was airgapped. Power plants, trauma wards, orbital links, and heavy logistics were locked in a hard anchor. But the rest of the city… it breathed differently. Shibuya morphed into a fluid organism of pure light. The holo-ads quit pushing product. Instead, they started throwing questions at your face:
 > "Who would you be if memory wasn't linear?"
 > "Should your kids inherit your trajectory?"
