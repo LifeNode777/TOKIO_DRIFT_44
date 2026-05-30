@@ -78,3 +78,22 @@ Up on the mega-screens, AIs spat out poetry stitched from real-time weather feed
  And overriding it all was this faint, sub-bass hum: a 432Hz sync-wave blasted by the city’s Q-Cores buried beneath the subway stations. They weren't hijacking brains. They were just softening the semantic connections.
 
 Letting thoughts drift a little further out than they used to.
+
+---
+
+**Sector 5-C, Shinjuku, July 15, 2044 – Day 12 of the Drift**
+
+Krzysztof woke up with the feeling that his thoughts were racing too fast. As if someone had stripped the limiter off his own mind. For a moment, he lay motionless on the mattress inside his hotel capsule, staring at the ceiling, which was gently pulsing to a 432Hz rhythm. He wasn't sure if it was actually happening to the ceiling or if his brain was just wired that way now.
+ *Theta 0.60. Kurwa. They actually did it. The Japanese... what a bunch of fucking psychos.*
+He got up and walked over to the window. Outside, the city looked the same as ever—neon towers, flying advertisements, rain. But something was different. The people on the street were moving slower, but not like zombies. More like... acutely aware of every single step. Someone stood right in the middle of the sidewalk, staring up for a solid two minutes, smiling to themselves. Another sat on a bench, tracing something with a finger on the wet concrete, letting the rain wash it away, then drawing it again.
+*Social therapy, bullshit. This is a collective clusterfuck.* His neuro-link vibrated. XYZ. "You alive?" her voice sounded as if she were speaking from very far away, even though she was in the same building. "Unfortunately. Where are you?" "On the roof. I came up to see what Tokyo looks like from the perspective of a bird that just discovered gravity is optional." Krzysztof sighed. "What the fuck are you doing?" "Nothing. It's just... do you know I've been talking to a tree for the last twenty minutes?"
+"With what fucking tree?"
+"The one that grew through a crack in the pavement three streets over. It has a name. And it remembers the times before Contact. And it's sad that nobody listens anymore." Krzysztof rubbed his face with his hand. "XYZ, this is the Drift. People hallucinate. Trees don't talk."
+"But what if they do talk, and we just didn't have the time to listen before?" her voice was quiet, calm. Too calm. "Did you know that under a normal coherence of 0.82, our brain filters out 99.7% of stimuli? Right now, it filters maybe 60%. The rest... gets through."
+"Which means you're tripping, and I've got a reality hangover. Great. Meet me in an hour at Grzybia Bar. Powolniak has some data from Layer 2."
+"Krzysztof?"
+"What?"
+"And who were you talking to this morning?"
+He hung up. For a moment, he stood in silence, staring at his reflection in the window. For a second—literally a fraction of a second—it felt like his reflection blinked first.
+
+*Theta 0.60. Kurwa mać.*
