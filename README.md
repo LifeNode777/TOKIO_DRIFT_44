@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Stay_HigH.png" alt="Stay High" width="100%" />
+</p>
+
 # TOKIO_DRIFT_44
 
 
