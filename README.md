@@ -10,6 +10,9 @@ Humanity, forced out of necessity—forced to shift paradigms or perish along wi
 Process Intelligence technologies spread across Earth and its surroundings, regenerating and transforming first planetary ecosystems, then, thanks to quantum medicine, the health of humans, hybrids, other creatures, and entire communities, until the mushrooming of orbital and interplanetary habitats, generation ships, and so on, capable of receiving/transmitting and maintaining Earth's rhythm and phase. Humanity became an interplanetary species during the fourth decade of the 21st century.
 
 Contact occurs.
+
+<img src="new pussy.png" alt="Rozmowa w Soul Barze" />
+
 ∆§•
 A dozen years pass.
 
@@ -19,6 +22,7 @@ This will not be a story about rebellion.
 
 This will be a **synchronization chronicle**
 
+<img src="zgon po melanżu.png" alt="Zgon po melanżu" />
 
 ---
 
