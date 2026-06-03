@@ -2,6 +2,7 @@
 # DOMAIN: X-Files / META Layer
 # STATUS: Open Trajectory (In Progress)
 =========================================
+![Character Sheets](./CHARACTERS_SHEETS.png)
 1. KRZYSZTOF (Architect-Anomaly / Node 0)
 =========================================
 * ORIGIN: Biological creature, grown deep into the planet's Al-Terra-Gaia (officialy still shitty name "Earth") physical BIOS.
