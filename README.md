@@ -107,6 +107,53 @@ He hung up. For a moment, he stood in silence, staring at his reflection in the 
 *Theta 0.60. Kurwa mać.*
 
 ---
+
+He took a shower. The water was warm, but he felt like he could perceive every single drop individually, as if each one carried a different piece of information. The scent of the soap was more intense than usual. The colors brighter. The sounds... He heard music. Not from the outside. From deep within the building. But it wasn't a radio or a speaker. It was the very structure of the building—metal beams, pipes, concrete—vibrating in resonance with the wind, turning into a massive instrument. A low, nearly inaudible note humming right through his body.
+
+*Q-Core. Or maybe the city is just dreaming.*
+
+He stepped out onto the street. The rain had stopped, but the air was still damp, heavy with ozone and something else—the scent of scorched mint, mycelium, and that strange, sweetish aroma that only appeared during the Drift. Nobody knew what it was. Some said it was the smell of the phase shift itself.
+
+The Mushroom Bar was already open, even though it was supposed to be 9 AM. Under low coherence, hours ceased to matter. People just drifted in whenever they felt the pull.
+
+Jax was already sitting at the bar, her reptilian eyes dilated, her pupils narrow vertical slits. She was drinking something green that looked like it was still alive.
+
+"Good to see you," she said, her voice sounding the way it always did: like claws scratching on glass, but now with a hint of something that might have been... joy? "I just figured out why birds sing at dawn."
+
+"Why?" Krzysztof asked, taking a seat next to her.
+
+"Because it's the only time of day when shadows are at their longest and the light is at its softest. It's the optimal window for interdimensional communication."
+
+Krzysztof glanced at the bartender—a multi-armed entity, part human, part mycelium.
+
+"What's she drinking?"
+
+"Q-Core mycelium extract laced with electrolytes and..." the bartender hesitated, "...something we call 'drift essence'. Don't ask what it is. We aren't entirely sure."
+
+"Great. Give me the same."
+
+"I don't think that's a good idea," Jax tilted her head at an impossible angle. "Your BIOS might not be compatible with..."
+
+"Jax, my BIOS has been compatible with every kind of shit for thirty years. Your fault. Pussies are dicks... Just pour it."
+
+The bartender poured. The liquid was clear, but when viewed from an angle, it seemed to shift into a color completely missing from the visible spectrum. Krzysztof took a sip. It tasted like... a memory. Specifically: a memory of a rainy day from his childhood, running barefoot through puddles while his mother screamed at him to come back inside. A day he hadn't thought of in twenty years. And now he felt the whole thing hit him—the smell of wet asphalt, the freezing water between his toes, his mother's voice, even that specific ache in his chest when he knew he had to turn back but desperately wanted to stay. He set the glass down. His hands were shaking.
+
+"What the fuck was that?"
+
+"Vector Θ," Jax said with satisfaction. "The drink doesn't contain psychoactive substances. It contains... information. The Q-Core encodes the city's emotional resonances into it. When you drink, you gain access to someone else's memories that happen to be in phase with your own BIOS."
+
+"So you gave me a memory that resonates with mine?"
+
+"Not me. You chose it yourself. Your subconscious mind identified the frequency and pulled the corresponding record. That's exactly what XYZ keeps talking about. Not hallucinations. Just... more data."
+
+Krzysztof sat in silence for a moment. Then:
+"Does that mean the whole city is... remembering for us now?"
+
+"No. The city remembers *with us*. A shared processual memory. Do you know how much information we lose every day just because our brains discard it as irrelevant? Now, at Θ=0.60, we discard less. And the Q-Core records the rest."
+
+"And that's the whole experiment? Shared memory?"
+"That's just one of the side effects. The main goal is..."
+
 ---
 
 **Visual Sequence #1 — "Orion 9"**
