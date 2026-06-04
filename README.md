@@ -63,6 +63,8 @@ Krzysztof sighed, reaching for his lighter, even though he knew it wouldn't spar
 
 To be continued...
 
+<img src="cziken banana.png" alt="Cipki i ich rozkminy" />
+
 ---
 
 July 10, 2044
