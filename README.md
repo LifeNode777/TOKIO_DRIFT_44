@@ -91,7 +91,7 @@ Humanity’s first-ever month-long urban experiment greenlit by the Archipelago 
 > "Who would you be if memory wasn't linear?"
 > "Should your kids inherit your trajectory?"
 > "How many personas can fit inside one meat-suit during monsoon season?"
-
+![Plakat Festiwalu](BONUS/festival%20advertising%20poster.png)
 Up on the mega-screens, AIs spat out poetry stitched from real-time weather feeds and pedestrian EEG streams. Tokyo Tower was draped in thousands of bio-lanterns bio-engineered from **luminescent mycelium**. They throbbed in perfect sync with the city's collective pulse.
  And overriding it all was this faint, sub-bass hum: a 432Hz sync-wave blasted by the city’s Q-Cores buried beneath the subway stations. They weren't hijacking brains. They were just softening the semantic connections.
 
