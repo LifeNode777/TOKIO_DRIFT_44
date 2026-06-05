@@ -44,6 +44,11 @@ They set off.
 Krzysztof, furious:
 “POWOLNIAK, KURWA! NOT TO THE BAR, GODDAMMIT, NEXT ONE… Pussies and their rambling,” he groaned. “Ping the guy, track him, and set a route to the meeting, kurwa.” (*And we’ll go to the bar later anyway*, he thought.)
 “Just a reminder, last time we were at a bar on Europa, Jax fried her limbic system implant,” XYZ laughed.
+
+<p align="center">
+  <img src="Europa Jupiter System.png" alt="Bar Europa Jupiter System" width="100%" />
+</p>
+
 “Our operating budget shrunk by 7.35% because of that, not to mention having to physically shut the lunatic down for two weeks of forced stay at H-Node Clinics for resyncing,” Powolniak muttered.
 “If you can’t handle your drugs, don’t do them. That’s why shut her down—let her lie there and try to catch a resonance with reality. Any reality. Let’s get the fuck out of here, the meeting won’t make itself,” Krzysztof summed up, kicking an empty beer can. The can hit the curb and vibrated with a strange, metallic sound, like a tuning fork. Powolniak froze. Her optical pupils dilated, flashing with a brief violet flicker.
 
