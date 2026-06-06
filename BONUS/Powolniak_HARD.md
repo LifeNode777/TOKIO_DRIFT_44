@@ -1,3 +1,4 @@
+![ładzaaap](./whatsssUP.png)
 
 **ZESZYT [UTAJNIONO] // WĘZEŁ: BIOS_STARVATION // $\Theta = 0.60$**
 
