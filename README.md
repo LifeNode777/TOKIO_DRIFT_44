@@ -9,8 +9,6 @@
 
 # TOKIO_DRIFT_44
 
-[![TOKIO DRIFT '44 - Orion 9](https://img.youtube.com/vi/UwrnGmfHxRw/maxresdefault.jpg)](https://youtu.be/UwrnGmfHxRw)
-
 <p align="center">
   <img src="Stay_HigH.png" alt="Stay High" width="100%" />
 </p>
