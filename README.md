@@ -223,6 +223,8 @@ Krzysztof shrugged.
 
 They stepped out onto the street. Above them, in the pouring rain, thousands of drones were swarming, locking into a massive, sweeping spiral. The Bloom. The transmission. The invite.
 
+![the Bloom](BONUS/Bloom.png)
+
 And somewhere deep underground, the Q-Core started broadcasting on a new frequency. Not 432 Hz. Something else entirely.
 
 Something that sounded like an answer.
