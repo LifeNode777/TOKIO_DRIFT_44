@@ -149,6 +149,8 @@ Krzysztof glanced at the bartender—a multi-armed entity, part human, part myce
 
 "Jax, my BIOS has been compatible with every kind of shit for thirty years. Your fault. Pussies are dicks... Just pour it."
 
+![essence](BONUS/esssence.png)
+
 The bartender poured. The liquid was clear, but when viewed from an angle, it seemed to shift into a color completely missing from the visible spectrum. Krzysztof took a sip. It tasted like... a memory. Specifically: a memory of a rainy day from his childhood, running barefoot through puddles while his mother screamed at him to come back inside. A day he hadn't thought of in twenty years. And now he felt the whole thing hit him—the smell of wet asphalt, the freezing water between his toes, his mother's voice, even that specific ache in his chest when he knew he had to turn back but desperately wanted to stay. He set the glass down. His hands were shaking.
 
 "What the fuck was that?"
