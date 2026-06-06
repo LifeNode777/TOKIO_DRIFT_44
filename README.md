@@ -169,6 +169,59 @@ Krzysztof sat in silence for a moment. Then:
 "And that's the whole experiment? Shared memory?"
 "That's just one of the side effects. The main goal is..."
 
+She never finished. The bar doors slammed open with a heavy crash. XYZ burst in, completely drenched, her pupils so violently blown out you could barely see her irises.
+
+“I got it,” she gasped, out of breath. “I got the proof.”
+
+“Of what?”
+
+“That The Bloom isn't art. It’s… a transmission.”
+
+She thrust her hand out. On her wrist, a pattern was taking shape—a soft, pulsing spiral, identical to the street graffiti, the visions in their dreams, the holo-ads. Except now, it was physical. It looked like ink on skin, only it wasn't. It was beneath the surface, embedded deep in the tissue. Like her flesh had rewritten its own code.
+
+“It showed up an hour ago,” XYZ said, her voice calm—too fucking calm. “Didn't even hurt. It just… became. And you know what?”
+
+“What?”
+
+“I can read it.”
+
+Krzysztof and Jax locked eyes.
+
+“You understand… the spiral?”
+
+“Not the spiral. The transmission. It’s not a symbol. It’s a language. Three-dimensional, procedural, resonance-driven—but a fucking language. And someone—or something—just started broadcasting to us.”
+
+Silence dropped like a stone. Even the multi-armed bartender froze, stopping mid-mix.
+
+“So what’s it saying?” Krzysztof finally asked, his voice low.
+
+XYZ smiled. Her pupils were still wide open, but there was something new swimming in them now. Absolute calm. Pure certainty.
+
+“It says: 'Welcome to the next phase. Are you ready?'”
+
+“And what did you say back?”
+
+“Nothing yet. I was waiting for you guys. Because this isn't a ping meant just for me. It's for us. The whole damn species. And we need to decide on our reply together.”
+
+Krzysztof looked down at his glass. Then at the pulsing spiral on XYZ’s wrist. Then at Jax, who was grinning that sharp, reptilian smirk of hers.
+
+Theta 0.60. Controlled drift. Just an experiment.
+
+Except this didn't feel like an experiment anymore. It felt like evolution.
+
+“Alright,” he said, standing up. “We’re hitting the Q-Core. Time to ask some heavy questions.”
+
+“Think it’ll talk back?” XYZ asked.
+
+Krzysztof shrugged.
+
+“No clue. But if it doesn’t, at least we try. In this whole shitshow, trying is all that matters anyway, right?”
+
+They stepped out onto the street. Above them, in the pouring rain, thousands of drones were swarming, locking into a massive, sweeping spiral. The Bloom. The transmission. The invite.
+
+And somewhere deep underground, the Q-Core started broadcasting on a new frequency. Not 432 Hz. Something else entirely.
+
+Something that sounded like an answer.
 ---
 
 **Visual Sequence #1 — "Orion 9"**
