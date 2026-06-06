@@ -109,6 +109,7 @@ He got up and walked over to the window. Outside, the city looked the same as ev
 "The one that grew through a crack in the pavement three streets over. It has a name. And it remembers the times before Contact. And it's sad that nobody listens anymore." Krzysztof rubbed his face with his hand. "XYZ, this is the Drift. People hallucinate. Trees don't talk."
 "But what if they do talk, and we just didn't have the time to listen before?" her voice was quiet, calm. Too calm. "Did you know that under a normal coherence of 0.82, our brain filters out 99.7% of stimuli? Right now, it filters maybe 60%. The rest... gets through."
 "Which means you're tripping, and I've got a reality hangover. Great. Meet me in an hour at Grzybia Bar. Powolniak has some data from Layer 2."
+![Powolniak Hard](BONUS/Powolniak%20Hard.png)
 "Krzysztof?"
 "What?"
 "And who were you talking to this morning?"
