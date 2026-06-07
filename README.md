@@ -192,12 +192,16 @@ She thrust her hand out. On her wrist, a pattern was taking shape—a soft, puls
 “I can read it.”
 
 ---
+
 ⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬
+
 PRODUCT PLACEMENT:
 
 ![productplacement](productplacement.png)
 
+
 ⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫
+
 ---
 
 Krzysztof and Jax locked eyes.
