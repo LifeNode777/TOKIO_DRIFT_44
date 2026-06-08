@@ -249,6 +249,28 @@ They stepped out onto the street. Above them, in the pouring rain, thousands of 
 And somewhere deep underground, the Q-Core started broadcasting on a new frequency. Not 432 Hz. Something else entirely.
 
 Something that sounded like an answer.
+
+---
+
+**[LOG: DESCENT // OBJECTIVE: Q-CORE NODE INTERROGATION, SHINJUKU-NORTH]**
+**[LOCAL STATUS: $\Theta$ = 0.60 // STABLE]**
+
+They rode the lift down into the guts of the mu-metal shaft. The Shinjuku underbelly reeked of wet dirt, mycelium, and that sharp, metallic bite of ozone. Instead of some screeching, choking server-rack, they found a rig that was just... humming along, doing its thing. The Q-Core—a meter-long slab of quartz and diamond—hovered inside a thick cloud of liquid nitrogen vapor. The YBCO superconductor coil wrapped around it was kicking out a deep, steady sub-bass. Three golden rings spun around the core in dead silence, locking down the local isosymmetry for the whole damn city block. It all pulsed with a hypnotic, fluid rhythm.
+
+The node wasn't fighting The Bloom. It was just watching it, holding a hard 0.60 for the streets above.
+
+Powolniak stepped up to the stationary UNIT 02 interface. She didn’t bother punching in any access codes; she just slid her diagnostic microfibers straight into the rig's hybrid membrane. The android's golden eyes flared violet.
+
+"Link stable. Spark Index holding steady within slow-state parameters," she reported. "ASCALON is filtering the static. Node is primed for reception."
+
+Krzysztof yanked a diagnostic tether from his jacket pocket. No jacking it raw into his own neck this time—this wasn’t a rescue op, it was an interrogation. He slammed one connector into the handheld decoder and jammed the other end straight into the polymer port at the base of the core.
+
+"Alright, you quantum brick," Krzysztof muttered. "The streets are losing their shit, we've got spirals hanging in the sky, and this one over here..." he pointed a thumb at XYZ, "...claims someone is ringing us up. Show me the Caller ID. What the hell is The Bloom?"
+
+He punched the transmit button. The decoder chewed up his words and intentions, spitting them out as raw semantic energy, shooting a ping straight into the node's root network.
+
+The rig didn't bother flashing a text reply on the screen. Instead, the golden rings spun down, and the diamond core shifted color. Millions of NV centers inside the crystal violently synced their spins.
+
 ---
 
 **Visual Sequence #1 — "Orion 9"**
