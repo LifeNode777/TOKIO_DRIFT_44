@@ -26,6 +26,8 @@ Sięgnął do wewnętrznej kieszeni poobijanej, roboczej kurtki. Wyciągnął "k
 – Paskudnie dzisiaj leje – powiedziała, opierając łokcie na stole, a jej oczy zwęziły się zaintrygowane.
 - O, widzisz. I to jest komunikacja – odpowiedział Krzysztof, odpalając szluga. - Zamawiamy coś, czy będziemy tak siedzieć i udawać, że mi zaraz mózg nie wyparuje? Ponoć rzucili dzisiaj psylocybin nebula stout, a JA NIGDY NIE ĆPAŁEM, w sensie z Twoją rasą, będziesz moją pierwszą? 🙃 - Spojrzała na pulsujący fioletem sprzęt na stole, potem na niego i z równie udawaną powagą odpowiedziała wzruszając ramionami - Trudno, co robić - w tej samej sekundzie zgłaszając barowej sieci telepatycznej zamówienie [2 x double psylocybin nebula stout + absinthe]
 
+![😆](zapładniator_3000_3.png)
+
 Mobilny "nx77_HARD" cicho buczał, ratując mu życie przy każdym jej oddechu.
 
  "Cipki i ich rozkminy", pomyślał. "Ale przynajmniej ta technologia do czegoś się czasami przydaje to już chuj, niech stracę"
