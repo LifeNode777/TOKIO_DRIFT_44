@@ -257,6 +257,8 @@ Something that sounded like an answer.
 
 They rode the lift down into the guts of the mu-metal shaft. The Shinjuku underbelly reeked of wet dirt, mycelium, and that sharp, metallic bite of ozone. Instead of some screeching, choking server-rack, they found a rig that was just... humming along, doing its thing. The Q-Core—a meter-long slab of quartz and diamond—hovered inside a thick cloud of liquid nitrogen vapor. The YBCO superconductor coil wrapped around it was kicking out a deep, steady sub-bass. Three golden rings spun around the core in dead silence, locking down the local isosymmetry for the whole damn city block. It all pulsed with a hypnotic, fluid rhythm.
 
+![Q-Core Shinjuku](Q-Core_Shinjuku.png)
+
 The node wasn't fighting The Bloom. It was just watching it, holding a hard 0.60 for the streets above.
 
 Powolniak stepped up to the stationary UNIT 02 interface. She didn’t bother punching in any access codes; she just slid her diagnostic microfibers straight into the rig's hybrid membrane. The android's golden eyes flared violet.
