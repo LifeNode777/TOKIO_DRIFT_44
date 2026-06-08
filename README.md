@@ -1,3 +1,9 @@
+Joł 🙃
+
+![NX-7 Sentinel](BONUS/NX-7_Sentinel.png)
+
+---
+
 ![xD](BONUS/także%20tego.png)
 
 ---
