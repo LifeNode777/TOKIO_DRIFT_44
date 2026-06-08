@@ -203,7 +203,7 @@ She thrust her hand out. On her wrist, a pattern was taking shape—a soft, puls
 
 PRODUCT PLACEMENT:
 
-![productplacement](productplacement.png)
+![productplacement](BONUS/productplacement.png)
 
 
 ⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫
