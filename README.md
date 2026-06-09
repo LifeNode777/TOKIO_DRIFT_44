@@ -275,7 +275,7 @@ The rig didn't bother flashing a text reply on the screen. Instead, the golden r
 
 ---
 
-![S.W.ED](ta%20ra%20rA%20rA%20RA%20Snoop%20Doog%20xd.png)
+![S.W.ED](ta%20ra%20RA%20rA%20RA%20Snoop%20Doog%20xd.png)
 
 ---
 
