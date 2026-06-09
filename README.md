@@ -286,27 +286,24 @@ He simply felt... geometry.
 A void, an infinite space possessing a perfect, mathematical shape resembling a blooming fern. There was no threat in it. No broadcast demanding surrender. It was the kind of feeling you get walking into a completely brand-new, empty room where someone left a window open.
 
 "Fucking hell..." Krzysztof let the air out of his lungs, staring at the pulsing diamond. "This isn't a message. It's... a new operating system."
-
 XYZ stepped up to the interface. The light from the core reflected in her dilated pupils. The Bloom pattern on her wrist glowed brighter, pulsing in perfect phase with the machine.
-
 "Does the core confirm it?" she asked quietly.
 
 Powolniak nodded.
 
 "The Meta vector readings show that the Q-Core isn't interpreting the Bloom as input data. It treats it as an environmental shift. Like a change in gravity. Earth updated its parameters. The Q-Core is simply adjusting its resonance to match."
-
 Jax snorted with laughter, playing with a knife.
-
 "So this whole Theta drop for the festival, all those violet spirals, people losing their shit on the streets... it's just a free update from the Universe?"
-
 "Looks like it. We aligned with the geometry of the Solar System, so the System dropped a new firmware on us." Krzysztof unhitched the decoder and coiled the cable. He stared at XYZ and her arm for a moment. "The catch is, our old human hardware doesn't have an input port for this. They flashed a new language into us, but we don't have the dictionary."
-
 "You don't. Because you're running on an obsolete BIOS, Krzysiek." XYZ raised her hand, and the spiral beneath her skin slowly began to rotate around its own axis like a living organism. She looked straight into his eyes with a smirk. "But for me... the installation just wrapped up."
-
 "You know what I'm gonna tell you?"
-
 "That you're fucking the mothers, wives, and daughters of my bitch-ass creators. Yeah, I know."
 
+---
+
+On Day 21 of the festival, something went down that nobody predicted. Across Tokyo, identical symbols started popping up spontaneously. First as graffiti. Then in dreams reported by neuro-link users. Later, bleeding into street music.A spiral resembling, all at once:a galaxy,a fingerprint,and mycelial networks.Nobody knew the author. The media dubbed it "The Bloom." Social feeds exploded. Some claimed it was emergent collective art. Others called it the first true urban processual intelligence. Still others swore it was just a side effect of the $\Theta$ drop. The Council officially denied any threat. Unofficially: Q-Core monitoring was cranked up by 400%.
+
+---
 ---
 
 ![S.W.ED](ta%20ra%20Ra%20rA%20RA%20Snoop%20Doog%20xd.png)
