@@ -117,7 +117,7 @@ Krzysztof woke up with the feeling that his thoughts were racing too fast. As if
 
  *Theta 0.60. Kurwa. They actually did it. The Japanese... what a bunch of fucking psychos.*
 
-![sztos](/BOBUS/Higher_School_of_Art_xD.png)
+![sztos](/BONUS/Higher_School_of_Art_xD.png)
  
 He got up and walked over to the window. Outside, the city looked the same as ever—neon towers, flying advertisements, rain. But something was different. The people on the street were moving slower, but not like zombies. More like... acutely aware of every single step. Someone stood right in the middle of the sidewalk, staring up for a solid two minutes, smiling to themselves. Another sat on a bench, tracing something with a finger on the wet concrete, letting the rain wash it away, then drawing it again.
 *Social therapy, bullshit. This is a collective clusterfuck.* His neuro-link vibrated. XYZ. "You alive?" her voice sounded as if she were speaking from very far away, even though she was in the same building. "Unfortunately. Where are you?" "On the roof. I came up to see what Tokyo looks like from the perspective of a bird that just discovered gravity is optional." Krzysztof sighed. "What the fuck are you doing?" "Nothing. It's just... do you know I've been talking to a tree for the last twenty minutes?"
