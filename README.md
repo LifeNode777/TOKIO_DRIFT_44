@@ -277,7 +277,13 @@ He punched the transmit button. The decoder chewed up his words and intentions, 
 
 The rig didn't bother flashing a text reply on the screen. Instead, the golden rings spun down, and the diamond core shifted color. Millions of NV centers inside the crystal violently synced their spins.
 
-Krzysztof felt it the exact same split second the decoder in his hand vibrated. It wasn't text. The Q-Core transmitted a directly generated Meld state straight to him—a packet of pure, biological rhythm. An image formed in his mind, completely stripped of any visual details. He simply felt... geometry. A void, an infinite space possessing a perfect, mathematical shape resembling a blooming fern. There was no threat in it. No broadcast demanding surrender. It was the kind of feeling you get walking into a completely brand-new, empty room where someone left a window open.
+Krzysztof felt it the exact same split second the decoder in his hand vibrated. It wasn't text. The Q-Core transmitted a directly generated Meld state straight to him—a packet of pure, biological rhythm. An image formed in his mind, completely stripped of any visual details.
+
+He simply felt... geometry.
+
+![Soliton](/BONUS/Semantic%20Soliton%20in%20the%20Cognitive%20Field.png)
+
+A void, an infinite space possessing a perfect, mathematical shape resembling a blooming fern. There was no threat in it. No broadcast demanding surrender. It was the kind of feeling you get walking into a completely brand-new, empty room where someone left a window open.
 
 "Fucking hell..." Krzysztof let the air out of his lungs, staring at the pulsing diamond. "This isn't a message. It's... a new operating system."
 
