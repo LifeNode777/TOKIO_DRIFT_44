@@ -187,6 +187,8 @@ Krzysztof sat in silence for a moment. Then:
 
 She never finished. The bar doors slammed open with a heavy crash. XYZ burst in, completely drenched, her pupils so violently blown out you could barely see her irises.
 
+![Firmware](/BONUS/new_firmware.png)
+
 “I got it,” she gasped, out of breath. “I got the proof.”
 
 “Of what?”
