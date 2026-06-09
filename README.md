@@ -275,6 +275,10 @@ The rig didn't bother flashing a text reply on the screen. Instead, the golden r
 
 ---
 
+![S.W.ED](ta%20ra%20rA%20rA%20RA%20Snoop%20Doog%20xd.png)
+
+---
+
 **Visual Sequence #1 — "Orion 9"**
 
 https://youtu.be/UwrnGmfHxRw?is=6yGrrcYfLGvaav7W
