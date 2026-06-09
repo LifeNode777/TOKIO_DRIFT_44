@@ -304,6 +304,30 @@ Jax snorted with laughter, playing with a knife.
 On Day 21 of the festival, something went down that nobody predicted. Across Tokyo, identical symbols started popping up spontaneously. First as graffiti. Then in dreams reported by neuro-link users. Later, bleeding into street music.A spiral resembling, all at once:a galaxy,a fingerprint,and mycelial networks.Nobody knew the author. The media dubbed it "The Bloom." Social feeds exploded. Some claimed it was emergent collective art. Others called it the first true urban processual intelligence. Still others swore it was just a side effect of the $\Theta$ drop. The Council officially denied any threat. Unofficially: Q-Core monitoring was cranked up by 400%.
 
 ---
+
+On the final night of the Drift, a warm rain fell over Tokyo. Krzysztof and the girls sat by the canal in Odaiba, watching the light reflections of the orbital lifts stretching all the way into the clouds. The city was strangely quiet. Like after a long sleep.
+
+"So what now?" XYZ asked.
+
+Krzysztof stubbed out his cigarette.
+
+"Now everyone goes back to a high anchor and pretends nothing happened."
+
+"But did something happen?"
+
+He looked at her. In the distance, thousands of drones began arranging themselves into a massive spiral over the bay. The same symbol. The Bloom. For a few seconds, all of Tokyo froze. The people on the streets. The trains. Conversations. Music.
+
+As if the city was looking at itself.
+
+And then, somewhere deep underground, the Q-Core answered. Not with an alarm. Not with a command. Just a single, low tone resembling the strike of a gigantic tuning fork. And XYZ suddenly understood something she could never again put into words later on:
+
+that the drift wasn't a civilizational error.
+It was its way of dreaming about the Future.
+
+
+∆§•
+
+---
 ---
 
 ![S.W.ED](ta%20ra%20Ra%20rA%20RA%20Snoop%20Doog%20xd.png)
