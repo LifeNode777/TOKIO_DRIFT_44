@@ -1,3 +1,6 @@
+![chuj na wasze groby wy kurwy xd](jebane_cwele_xD.jpg)
+Fucking github whores, when there was little traffic on the repositories, they refreshed the statistics every 24 hours, but when the traffic started to increase, "accidentally" there were no updates for three days xD
+
 Joł 🙃
 
 ![NX-7 Sentinel](BONUS/NX-7_Sentinel.png)
