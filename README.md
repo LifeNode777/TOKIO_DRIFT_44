@@ -1,4 +1,4 @@
-![tyle wam powiem kurwy jebane xd](BONUS/no%20i%20%20wszystko%20w%20temacie.png)
+![tyle wam powiem kurwy jebane xd](BONUS/no%20i%20wszystko%20w%20temacie.png)
 
 ![chuj na wasze groby wy kurwy xd](jebane_cwele_xD.jpg)
 Fucking github whores, when there was little traffic on the repositories, they refreshed the statistics every 24 hours, but when the traffic started to increase, "accidentally" there were no updates for three days xD
