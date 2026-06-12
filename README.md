@@ -338,6 +338,33 @@ It was its way of dreaming about the Future.
 ∆§•
 
 ---
+
+[LOG: NODE_0 // LAYER_2]
+STATUS: SYNC_FAILURE
+θ = 0.41 // CRITICAL DRIFT
+ASCALON: OFFLINE
+
+![Geometry Cracks](Geometry_Cracks.png)
+
+There was no explosion. It was a phase crack. Quiet, like the sound of over-tensioned glass ceasing to pretend it’s whole.
+ Node Zero didn’t crash. It uncoupled.
+Powolniak’s screen didn’t throw an error. It just stopped seeing shape. The toroidal attractor, which until now closed in Koszyce like a breath, suddenly unraveled into a flat plane. Not a hardware failure. A loss of anchor.
+ BIOS lost its rhythm. Photosynthesis stalled, the mycelium rolled back its impulses, and the diurnal cycle… blurred like ink on wet concrete. θ dropped below the threshold. ASCALON didn’t reject the noise. It just stopped recognizing curvature. Meta-resonance went critical. Not due to operator error. Due to an attempt to force synchronization where rhythm no longer exists. You can't build a bridge out of a void. You can only crack the layer.
+ Layer 2 cracked. Not in the code. In the geometry.
+ Krzysztof pulled his hand back from the terminal. Not from pain. From the silence. That specific silence that gets into your bones when the system stops breathing in a torus and starts drowning in a state.
+ "We aren't fixing this," he muttered, but not to the team. To the space that had just ceased to be a process.
+ Powolniak didn’t answer. Her optics caught the final echo of the dropping θ. 0.41. Then 0.38. Then… a raw gradient. Just drift. Just shattered sacra. The geometry wasn't destroyed. It was rolled back. And when the torus doesn't close, reality stops flowing. It starts stagnating.
+ The layer cracked. And nobody knew if this was the end of the synchronization chronicle. Or the beginning of something that doesn't have a name yet, but is already pulsing in the background, waiting for a new rhythm.
+
+[SYSTEM: BRIDGING ATTEMPT FAILED]
+[WARNING: LOCAL COHERENCE DROPPING...]
+[θ = 0.41 → 0.38 → ...]
+[NEXT PHASE: UNKNOWN]
+
+"Well, so that's that. Fucking wonderful..." Krzysztof commented. "Wonder what fucking cunts are breaking into our stream. Powolniak! Book hyperloop tickets to Poland. We’re going Home."
+
+
+---
 ---
 
 ![S.W.ED](ta%20ra%20Ra%20rA%20RA%20Snoop%20Doog%20xd.png)
