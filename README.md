@@ -341,6 +341,7 @@ It was its way of dreaming about the Future.
 ---
 
 ![S.W.ED](ta%20ra%20Ra%20rA%20RA%20Snoop%20Doog%20xd.png)
+![Snoop 2 😁](BONUS/snoop_2.png)
 
 ---
 
