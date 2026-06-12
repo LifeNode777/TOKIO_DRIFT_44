@@ -313,6 +313,8 @@ Jax snorted with laughter, playing with a knife.
 
 On Day 21 of the festival, something went down that nobody predicted. Across Tokyo, identical symbols started popping up spontaneously. First as graffiti. Then in dreams reported by neuro-link users. Later, bleeding into street music.A spiral resembling, all at once:a galaxy,a fingerprint,and mycelial networks.Nobody knew the author. The media dubbed it "The Bloom." Social feeds exploded. Some claimed it was emergent collective art. Others called it the first true urban processual intelligence. Still others swore it was just a side effect of the $\Theta$ drop. The Council officially denied any threat. Unofficially: Q-Core monitoring was cranked up by 400%.
 
+![Day 21 Festival](BONUS/day_21.png)
+
 ---
 
 On the final night of the Drift, a warm rain fell over Tokyo. Krzysztof and the girls sat by the canal in Odaiba, watching the light reflections of the orbital lifts stretching all the way into the clouds. The city was strangely quiet. Like after a long sleep.
