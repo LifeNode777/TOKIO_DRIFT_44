@@ -1,5 +1,10 @@
-![tyle wam powiem kurwy jebane xd](no%20i%20wszystko%20w%20temacie.jpg)
+![crowdfunding 🙃](BONUS/hajs_hajs_bejbe_2)
 
+---
+
+![tyle wam powiem xd](no%20i%20wszystko%20w%20temacie.jpg)
+
+---
 
 Joł 🙃
 
