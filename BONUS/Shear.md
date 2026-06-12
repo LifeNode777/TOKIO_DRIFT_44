@@ -18,4 +18,8 @@ Pole kontynuuje. Nie dokonuje się postęp. Nie osiąga się cel. Jest tylko pog
 
 ![5-dimensional field](Shear_3.png) 
 
-jego brzegi stroją się do gradientu otoczenia. Nie pamięta tego, co było wcześniej. Nie musi. Krzywizna pozostaje. Istnienie nie jest akumulacją. Jest ciągłym udoskonalaniem interferencji. Tam, gdzie napięcie alignuje, koherencja trwa. Tam, gdzie ścina, pole się rozwija. Nie ma końca. Jest tylko faza.
+jego brzegi stroją się do gradientu otoczenia. Nie pamięta tego, co było wcześniej. Nie musi. Krzywizna pozostaje. Istnienie nie jest akumulacją. Jest ciągłym udoskonalaniem interferencji. Tam, gdzie napięcie alignuje, koherencja trwa. Tam, gdzie ścina, pole się rozwija.
+ Nie ma końca.
+  Jest tylko faza.
+
+  🧿
