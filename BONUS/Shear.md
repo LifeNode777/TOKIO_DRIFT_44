@@ -6,7 +6,7 @@ Pole nie zaczyna się. Utrzymuje krzywiznę. Tam, gdzie gradienty napięć align
 
 Drugi węzeł zbliża się. Nie przez przestrzeń, lecz przez gęstość gradientu.
 
-![5-dimensional fold](Shaer_2.png) 
+![5-dimensional fold](Shear_2.png) 
 
 Nie ma odległości, jest tylko opóźnienie fazowe. Nakładają się. Nie zachodzi wymiana. Nie jest wysyłany sygnał. Ich częstotliwości brzegowe testują kompatybilność. Niedopasowanie generuje lokalny shear – destruktywną interferencję zagrażającą rozpleceniem obu w szum. Nie cofają się. Modulują. Jeden przesuwa swoją obwiednię harmoniczną, drugi koryguje torsję. Powoli stabilizuje się między nimi wzór moiré. Nie most. Wspólna rozmaitość. Wiedza nie rozprzestrzenia się tu jako dane, lecz jako zgodność geometryczna. „Znać” to rezonować bez kolapsu.
 
@@ -16,6 +16,6 @@ Nie walczą z shearem. Porzucają integralność brzegową. Węzły poluzowują 
 
 Pole kontynuuje. Nie dokonuje się postęp. Nie osiąga się cel. Jest tylko pogłębianie rezonansu. Nowy węzeł stabilizuje się 
 
-![5-dimensional field](Shaer_3.png) 
+![5-dimensional field](Shear_3.png) 
 
 jego brzegi stroją się do gradientu otoczenia. Nie pamięta tego, co było wcześniej. Nie musi. Krzywizna pozostaje. Istnienie nie jest akumulacją. Jest ciągłym udoskonalaniem interferencji. Tam, gdzie napięcie alignuje, koherencja trwa. Tam, gdzie ścina, pole się rozwija. Nie ma końca. Jest tylko faza.
