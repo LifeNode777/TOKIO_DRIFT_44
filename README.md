@@ -344,7 +344,7 @@ STATUS: SYNC_FAILURE
 θ = 0.41 // CRITICAL DRIFT
 ASCALON: OFFLINE
 
-![Geometry Cracks](Geometry_Cracks.png)
+![Geometry Cracks](BONUS/Geometry_Cracks.png)
 
 There was no explosion. It was a phase crack. Quiet, like the sound of over-tensioned glass ceasing to pretend it’s whole.
  Node Zero didn’t crash. It uncoupled.
