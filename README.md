@@ -389,3 +389,7 @@ This sequence explores the visual language of TOKIO_DRIFT_44 — where the bound
 - Processual perception
 
 🔗 **Part of the TOKIO_DRIFT_44 visual development series**
+
+---
+
+https://tokiodrift44.thecomicseries.com/
