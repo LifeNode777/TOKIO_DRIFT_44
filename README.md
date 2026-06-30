@@ -173,6 +173,8 @@ He got up and walked over to the window. Outside, the city looked the same as ev
 "And who were you talking to this morning?"
 He hung up. For a moment, he stood in silence, staring at his reflection in the window. For a second—literally a fraction of a second—it felt like his reflection blinked first.
 
+![On the morning 😊](BONUS/morning.png)
+
 *Theta 0.60. Kurwa mać.*
 
 ---
