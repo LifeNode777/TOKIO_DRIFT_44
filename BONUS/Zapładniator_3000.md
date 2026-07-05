@@ -334,4 +334,4 @@ Po raz pierwszy od lat, w sercu Krakowa przy Θ = 0.58, Krzysztof nie myślał o
 
 I zasnął.
 
-[🧿](zapladniator_3000_8_FINAL.png)
+![🧿](zapladniator_3000_8_FINAL.png)
