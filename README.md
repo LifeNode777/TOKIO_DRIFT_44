@@ -1,3 +1,5 @@
+![oł jee](fuck_the_system.jpg)
+
 #PHASEPUNK
 
 ![crowdfunding 🙃](BONUS/hajs_hajs_bejbe_2.png)
