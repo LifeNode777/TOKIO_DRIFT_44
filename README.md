@@ -327,7 +327,7 @@ Powolniak stepped up to the stationary UNIT 02 interface. She didn’t bother pu
 
 Nebula Titan.txt
 
-![Vanguard-9](Vanguard-9.png)
+![Vanguard-9](/BONUS/Vanguard-9.png)
 
 The silence on the recon bridge of Vanguard-9 was so fucking thick you could cut it with plasma. Usually talkative Vraxx—a three-meter-tall silicon engineer from the Ceti system—stood completely frozen, his faceted eyes flickering a panicked purple. Next to him, Unit-7, the research android, kept its optics locked dead-on the gargantuan anomaly hanging in the void. That thing was the size of a small moon. It wasn't a ship. It was... a seed. A semi-organic, pulsing wreck that had been drifting in the dead-center of the nebula for probably millions of years.
 
@@ -335,7 +335,7 @@ The silence on the recon bridge of Vanguard-9 was so fucking thick you could cut
 
 Outside, in the absolute void, Commander Elias’s microscopic silhouette was closing in on the glowing, purple membrane at the heart of the artifact. He was only supposed to plant a telemetry tap on one of those massive green tendrils and haul ass back. Instead... the guy must've hit the wrong fucking button. The green, bioluminescent veins running across the titan's chitinous armor suddenly flared with a blinding light. Spacetime around the artifact rippled like water hit by a stone.
 
-![komandor Elias](komandor%20Elias.png)
+![komandor Elias](/BONUS/komandor%20Elias.png)
 
 "Elias, kurwa, get back to the ship! Hit the reverse thrusters!" Vraxx roared into the comms, shredding every first-contact protocol in the book.
 
@@ -343,7 +343,7 @@ Instead of the commander’s voice, a heavy, sub-bass resonance flooded the brid
 
 "Seal the bulkheads," Vraxx whispered, slamming all four hands onto the console as the ship's systems started shrieking with critical overload alarms. "We didn't find this thing. This piece of shit was just waiting for someone to finally knock."
 
-![suprajs madafaka 🤣](suprajs%20madafaka%20xd.png)
+![suprajs madafaka 🤣](BONUS/suprajs%20madafaka%20xd.png)
 
 ---
 
