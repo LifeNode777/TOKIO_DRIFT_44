@@ -321,6 +321,24 @@ Powolniak stepped up to the stationary UNIT 02 interface. She didn’t bother pu
 
 "Link stable. Spark Index holding steady within slow-state parameters," she reported. "ASCALON is filtering the static. Node is primed for reception."
 
+---
+
+[Bonus Story from PL issue 2 pdf]
+Nebula Titan.txt
+The silence on the recon bridge of Vanguard-9 was so fucking thick you could cut it with plasma. Usually talkative Vraxx—a three-meter-tall silicon engineer from the Ceti system—stood completely frozen, his faceted eyes flickering a panicked purple. Next to him, Unit-7, the research android, kept its optics locked dead-on the gargantuan anomaly hanging in the void. That thing was the size of a small moon. It wasn't a ship. It was... a seed. A semi-organic, pulsing wreck that had been drifting in the dead-center of the nebula for probably millions of years.
+
+"Gravitational density readings are going haywire," Unit-7 reported in its flat, synthetic drone. "The object's core just started warping local spacetime."
+
+Outside, in the absolute void, Commander Elias’s microscopic silhouette was closing in on the glowing, purple membrane at the heart of the artifact. He was only supposed to plant a telemetry tap on one of those massive green tendrils and haul ass back. Instead... the guy must've hit the wrong fucking button. The green, bioluminescent veins running across the titan's chitinous armor suddenly flared with a blinding light. Spacetime around the artifact rippled like water hit by a stone.
+
+"Elias, kurwa, get back to the ship! Hit the reverse thrusters!" Vraxx roared into the comms, shredding every first-contact protocol in the book.
+
+Instead of the commander’s voice, a heavy, sub-bass resonance flooded the bridge speakers, making the ship's hull groan. It was a sound like a choir of millions screaming a single word at the speed of light. Elias’s silhouette suddenly blurred, like a dirty glitch on a bad monitor. One second he was a human in a high-tech EVA suit, the next... the purple membrane just swallowed him whole. No friction, no blast. Gone. Then the entire gargantuan structure began to slowly, ominously rotate, turning its "gaze" straight at Vanguard-9.
+
+"Seal the bulkheads," Vraxx whispered, slamming all four hands onto the console as the ship's systems started shrieking with critical overload alarms. "We didn't find this thing. This piece of shit was just waiting for someone to finally knock."
+
+---
+
 Krzysztof yanked a diagnostic tether from his jacket pocket. No jacking it raw into his own neck this time—this wasn’t a rescue op, it was an interrogation. He slammed one connector into the handheld decoder and jammed the other end straight into the polymer port at the base of the core.
 
 "Alright, you quantum brick," Krzysztof muttered. "The streets are losing their shit, we've got spirals hanging in the sky, and this one over here..." he pointed a thumb at XYZ, "...claims someone is ringing us up. Show me the Caller ID. What the hell is The Bloom?"
