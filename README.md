@@ -15,6 +15,10 @@
 ---
 </div>
 
+![🐌](BONUS/jutro_też_nie_zdążysz.png)
+
+---
+
 # "WHERE, HOW, AND WHY THE ACADEMIC AND CORPORATE WHORES WILL HAVE TO CHOKE, FORCE THE PYRAMID TO TRANSFORM, OR DIE WITH IT"
 
 #reductionism_sucks #killuminati
