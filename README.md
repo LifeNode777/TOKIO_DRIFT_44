@@ -1,3 +1,9 @@
+ISSUE 5 IS COMING ☄️
+
+![Jeszcze_nie_wiemy_ale_idziemy_razem](Jeszcze_nie_wiemy_ale_idziemy_razem.png)
+
+---
+
 To examine the fabric of reality fragmented by a reductionist paradigm and claim that there is no global field in it is like taking a watch apart, pouring acid on it and claiming that "time does not flow out of it."
 
 <!-- LIFENODE ECOSYSTEM NAVIGATION HEADER -->
