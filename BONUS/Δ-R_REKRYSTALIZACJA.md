@@ -215,6 +215,8 @@ Sonda starszych kuzynów uderzyła w nią pełną mocą — i ześlizgnęła si�
 
 Klucz nie pasował do zamka. Broń wymierzona w trajektorię o ładunku jeden całowała teraz pustkę o ładunku dwa, geometrię, której nie miała w katalogu, adres, który zmienił się w trakcie pukania. Czerwony kryształ zawahał się — i Iga przysięgłaby, przez wszystkie sześć warstw, przysięgłaby, że zobaczyła w tym wahaniu coś jak obrażona godność drapieżnika, któremu mieszkanie zmieniło adres w połowie włamania. Sonda cofnęła się w szew. Szew się zaszył. Tapeta w jodełkę zeszła się idealnie, po raz pierwszy od lat.
 
+![broken_things_grow_better](broken_things_grow_better.png)
+
 λmax < 0. Chaos wszedł w reżim koherentny. D₂: 3.47 → 2.98: zrobiła się prostsza, gęstsza, bardziej sobą. C: 0.19 → 0.76. Θ: 0.601.
 
 T(H) = ∫_M ω ∧ dH. Podpis Gościa pod wykonaną pracą: rzeczywistość jest relacją. 現実は関係である。 Nie naprawił jej. Przekrystalizował. Zachował ją — nie cofnął jej. IDENTITY: PRESERVED ≠ RESTORED.
