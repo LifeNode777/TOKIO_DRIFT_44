@@ -1,5 +1,9 @@
 ISSUE 5 IS COMING ☄️
 
+![ISSUE_5_IS_COMING](ISSUE_5_IS_COMING.jpg)
+
+ISSUE 5 IS COMING ☄️ kurwa
+
 ![Jeszcze_nie_wiemy_ale_idziemy_razem](Jeszcze_nie_wiemy_ale_idziemy_razem.png)
 
 ---
