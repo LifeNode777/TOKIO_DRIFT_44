@@ -93,6 +93,8 @@ I WARSTWA 06, NIEZNANA.
 
 Na warstwie szóstej coś było. Coś, co nie miało kształtu, bo kształt to warstwa piąta i niżej. Kiedy uwaga Igi musnęła tę warstwę — niechcący, jak stopa muska grunt o ton głębszy niż miał być — coś ogromnego obróciło głowę w jej stronę. Powoli. Jak wieloryb obraca się do sonaru, który go zabolał.
 
+![pain_harvesters](pain_harvesters.png)
+
 Gość wszedł między nią a to. Bez pośpiechu. Jak rodzic wchodzi między dziecko a ulicę: nie dramatycznie, po prostu całkowicie, całym sobą, i ulica ma czekać.
 
 ```
