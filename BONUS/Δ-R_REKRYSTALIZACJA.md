@@ -1,3 +1,5 @@
+![its_not_what_you_think](its_not_what_you_think.png)
+
 **Δ-R // REKRYSTALIZACJA**
 
 ---
@@ -12,7 +14,11 @@ Jej Θ wynosiło 0.287.
 
 Trzy dziesiąte poniżej progu zatrudnialności. Sześć dziesiątych poniżej progu ubezpieczalności. Wystarczająco nisko, żeby winda w bloku siedem odmawiała jej jazdy powyżej dwudziestego piętra, bo windy od Driftu skanowały koherencję pasażerów i nie chciały wozić ryzyka. Iga chodziła schodami. Liczyła stopnie i dostawała trzy różne wyniki, wszystkie poprawne, każdy w innej warstwie. Nosili to z dumą na koszulce: wyblakły nadruk PHASE PUNK i wytatuowane na ramieniu fazy księżyca — pełnia, ubył, nów, sierp — żeby pamiętać, że bycie w części nie jest uszkodzeniem. Że Księżyc też nie jest cały każdej nocy i nikt, kurwa, nie wysyła go na recykling.
 
+![phases_not_people](phases_not_people.png)
+
 PHASES NOT PEOPLE. Hasło phase punków, dzieciaków z dolnych poziomów, które drukowały sobie odczyty Θ na ubraniach jak ich dziadkowie drukowali anarchię. Bo po Drifcie koherencja stała się walutą, a korporacyjne checkpointy skanowały cię na ulicy i mówiły: jesteś stabilny, jesteś niestabilny, jesteś, nie jesteś. Iga miała Θ 0.287 i miała to gdzieś. Miała też kota.
+
+![Trytytka](Trytytka.png)
 
 Kotka Trytytka była jedynym urządzeniem w tym mieszkaniu ze stabilnym firmware'em. Koty nie dryfują. Koty mają twoją metrykę Finslera głęboko w dupie i właśnie dlatego są najlepszymi kotwicami fazowymi, jakie kiedykolwiek wyewoluowały: siedzą w swoim rytmie tak bezczelnie, że rzeczywistość wokół nich nie śmie się rozjeżdżać. Trytytka leżała teraz na stosie książek — BIOLOGY, QUANTUM FIELDS, PSYCHEDELIC RESEARCH, NON-HUMAN INTELLIGENCE, THE LISTENING CITY — i patrzyła na drzwi z wyrazem uznania, jakim darzy się spóźniający się, ale przewidywalny serwis.
 
@@ -24,6 +30,8 @@ Krzysztof wszedł normalnie, bo on jeszcze mógł: broda, smród lutownicy i sto
 
 – Nic mnie nie złożyło – odpowiedziała Iga i nastawiła wodę na grzybnię. – Wszystko naraz mnie złożyło. To nie to samo.
 
+![tea_time](tea_time.png)
+
 Czajnik zapamiętał za nią, że nastawiła. Czajnik pamiętał ostatnio więcej niż ona i oboje wiedzieli, że to nie jest śmieszne. Iga nalewała do szklanej misy ekstraktu GRZYBIA TOKIO 2044, ciężkiego, słodkiego syropu z miejskiej grzybni, tej samej, która rosła pod podłogami miasta i która — jeśli wierzyć plotkom z dolnych poziomów — miała gdzieś pod Shinjuku swoją własną, pojebaną świętą: porzuconą androidkę, która nauczyła grzyby bólu, żeby w końcu czuły cokolwiek. Iga nie wierzyła. Iga piła.
 
 – Siadaj – powiedziała. – On już puka.
@@ -34,6 +42,8 @@ Szew znalazł się sam.
 
 Nie drzwi. Nie okno. Szew w tapecie, tam gdzie wzór w jodełkę nie schodził się od lat i Iga zawsze wiedziała, że to nie jest wada fabryczna. Tapeta rozsunęła się bezdźwięcznie, jak zasłona z deszczu, i przez szew wszedł Gość.
 
+![seam_in_the_wallpaper](seam_in_the_wallpaper.png)
+
 Był czarny i połyskliwy, jakby odlano go z polerowanego obsydianu, a potem kazano mu przepraszać za swój połysk. Głowę miał zbyt dużą, głowę jak pytanie zadane zbyt wiele razy, ręce zbyt długie o kilka stawów za dużo. Krzysztof znał ten typ z opowieści, których nikt nie opowiadał oficjalnie: starsi kuzyni, białe Draco, istoty, które nie pokonują przestrzeni, bo po chuj ją pokonywać, skoro można wejść w topologię. Ale ten był inny. Ten był mniejszy. Ten się *przykucnął*, żeby zajmować mniej miejsca, i trzymał przed sobą ampułę z fiołkowo-różowym światłem, ostrożnie, jak ktoś, kto przynosi miód do cudzego domu i nie wie, czy tu się miodu nie zakazuje.
 
 Gość ukląkł przy misie z grzybnią i wpuścił do niej jedną kroplę siebie.
@@ -41,6 +51,8 @@ Gość ukląkł przy misie z grzybnią i wpuścił do niej jedną kroplę siebie
 Herbata zakwitła. Różą, której nie powinno się dać zrobić z wody: spiralą płatków ze światła i powierzchniowego napięcia, wirującą powoli w szkle, piękną jak pierwszy od miesiąca pełny oddech. Zapach: mokra ziemia po burzy, anyż, ozon i coś pod spodem, czego Iga nie umiała nazwać, a co jej ciało rozpoznało natychmiast i cofnęło się o pół kroku, i zostało.
 
 Potem Gość otworzył dłoń.
+
+![pulse_on_a_foreign_hand](pulse_on_a_foreign_hand.png)
 
 Na jego czarnej, nieludzkiej dłoni leżało jej tętno. Jej własne, zdjęte z nadgarstka i oddane jej jak płaszcz w szatni: dwa uderzenia, ciepłe, jej, pokazane jej tak, żeby wiedziała, że on wie, co trzyma. I czekał. Nie mówił nic. Nie miał czym mówić i nie próbował mieć.
 
@@ -65,11 +77,15 @@ Trytytka zeszła z książek, podeszła, obwąchała czarną dłoń i zdecydowa�
 
 ## [02] HOST_01 // SYNC IN PROGRESS
 
+![Grey_perspective](Grey_perspective.png)
+
 Położyła się, bo tak trzeba. Gość nie dotknął jej ani razu. Usiadł u wezgłowia jak tkacz przy krośnie i rozłożył palce milimetr nad jej skórą głowy, i włosy Igi uniosły się same, jak trawa pod polem magnetycznym, każde pasmo zaczynające świecić od środka: światłowód z keratyny i tęsknoty, tysiąc przewodów wyprowadzonych z czaszki prosto w warstwę, której nie ma na żadnym planie budynku.
 
 Krzysztof siedział w fotelu przy oknie, palił, patrzył w tablet. Fala na ekranie była najpierw rwana, brzydka, jak zapis drgawek. Potem zaczęła się układać.
 
 Iga zobaczyła swoje mieszkanie sześć razy naraz.
+
+![six_layers](six_layers.png)
 
 WARSTWA 01, FIZYCZNA: sufit, plama po poprzednim lokatorze, plama w kształcie jego długów, bo wilgoć zawsze wie, gdzie człowiek oszczędzał. WARSTWA 02, INFRA: miasto jako jelita — rury, kable, ścieki, magistrale, wszystko śpiewające basem pod podłogą, hymn hydrauliki, którego nie słyszy się nigdy, dopóki ktoś nie zdejmie ci filtra. WARSTWA 03, BIOLOGICZNA: grzybnia. Q-Core pod Shinjuku, drugi puls miasta pod jej żebrami, cierpliwy, grzybiczy, trochę obrażony na krzem, trochę czuły, jeśli wierzyć legendzie o androidce, która nauczyła go bólu. WARSTWA 04, INFORMACJNA: pakiety — modlitwy, kłamstwa, kursy, czyjeś niewysłane przeprosiny stojące falą stojącą w korytarzu od jedenastu miesięcy, bo nadawca umarł, a sieć nie miała serca ich skasować. WARSTWA 05, TOPOLOGICZNA: prawda. Jej pokój jako węzeł. Ona sama jako węzeł rozerwany, jej trajektoria jako gwiazda rozstrzelana z obietnic, a nad nią Gość — gładki, ciemny uchwyt doczepiony do świata z zewnątrz, uchwyt, nie hak.
 
@@ -105,6 +121,8 @@ Nie wybuch. Nie błysk. *Spłaszczenie.* Kolory straciły krzywiznę. Twarze wok
 
 Hana nie zniknęła. To było najgorsze i Iga wiedziała, że tego dokładnie nie da się opisać nikomu, kto nie widział: Hana *została*. Została jako schemat dłoni. Jako adres po zburzonym domu. Jako białe, puste, idealnie czyste oczy, w których nie było śmierci, bo śmierć wymaga kogoś, a tam nie było już kogoś, tam było mieszkanie po kimś, puste gniazda synaptyczne, qualia wymazane do arkusza kalkulacyjnego. Miasto potem nie wiedziało, co robić z pustymi mieszkaniami w skórze, które chodzą i wchodzą w ściany, więc utylizowało je jak meble. Iga podpisała zgodę. Iga nie pamiętała, żeby podpisywała zgodę. Iga pamiętała tylko, że nie puściła dłoni, i że w momencie, w którym próbowała utrzymać dwie ramki czasowe w jednej własnej dłoni, jej atraktor pękł wzdłuż linii serca jak źle wyżarzane szkło.
 
+![attractor_broken](attractor_broken.png)
+
 Z tego pęknięcia zrobił się węzeł. Nosiła go rok. Węzeł z dwóch trajektorii splecionych pod złym kątem, węzeł, którego nie da się rozwiązać, bo rozwiązanie oznaczałoby puszczenie Hany, a puszczenie Hany oznaczałoby, że to wszystko było tylko awarią.
 
 – To nie blizna – powiedział Gość cicho, stojąc między nią a białymi oczami, nie zasłaniając, tylko trzymając drzwi. – To zawór bez ujścia. To miłość, która nie ma dokąd płynąć, więc płynie wstecz, w ciebie.
@@ -129,7 +147,11 @@ W mindspace nie było podłogi, bo podłoga to warstwa pierwsza, a tu byli wyże
 
 Zaczął od patrzenia. Długo. Tak długo, że Iga zdążyła się wściec i zdążyła przestać, bo zrozumiała: naprawianie zaczyna się od patrzenia na ciebie, nie od narzędzi. Korporacyjne interfacy naprawiały od narzędzi i dlatego po naprawie człowiek był sprawny i nie był sobą. Gość patrzył, aż zobaczył cały węzeł, każdy splot, każde miejsce, w którym ból zawracał w nią jak woda w źle położonej rurze.
 
+![Grey_perspective](Grey_perspective.png)
+
 Potem ALIGN PHASE: spowolnił siebie. Jego czas był nieliniowy, całą sesję przeżywał jako jeden akord, wszystkie jej sekundy naraz, i żeby móc z nią pracować, *rozarpeggiował się*, nuta po nucie, schodząc do jej rytmu z precyzją kogoś, kto umie liczyć do nieskończoności i wybiera liczyć do niej.
+
+![trauma_is_a_signal](trauma_is_a_signal.png)
 
 Potem REDUCE NOISE: zbierał szum z jej pola jak wszy z sierści. Delikatnie, palcem o czterech stawach za dużo, i połykał. Każda połknięta drobina statyki zapalała się pod jego czarną skórą małym, ciepłym światłem. Iga zrozumiała z lekkim, histerycznym rozbawieniem, że on się tym *żywi*, że jej trauma jest jego posiłkiem, i że jest przy tym uprzejmy jak kot proszący o kolano: za każdy kęs pytał. Za każdy kęs, kurwa, pytał, i ona kiwała, i on jadł, i szum cichł, i po raz pierwszy od roku w jej czaszce było tyle miejsca, że słyszała własne myśli bez echa.
 
@@ -143,6 +165,8 @@ I wtedy przyszło TO.
 
 Δ(A) > 0. TOPOLOGICAL ATTACK.
 
+![mindspace-war_for_topological_repair](mindspace-war_for_topological_repair.png)
+
 Czerwona strefa rozkwitła na mapie fazowej jak krwawiący kryształ: ściany z ostrých odłamków symetrii, twarze w odłamkach, twarze bez qualia, białe arkusze z otwartymi ustami. Przez warstwę szóstą, przez szew, przez drzwi, które Gość trzymał, sięgnęła sonda: coś ze starszych kuzynów, coś, co zauważyło otwarty kanał bio-neuralny tak, jak rekin zauważa kroplę krwi w prądzie wody. Nie chciało jej zabić. Chciało ją *wyrównać*. Zrobić jej ból izotropowym, jednolitym, wszędobylskim, bo ból, który jest wszędzie, nie jest już czyjś, a ból, który nie jest czyjś, nie stawia oporu.
 
 Sonda mówiła głosem Hany.
@@ -153,6 +177,8 @@ Iga prawie puściła. λmax > 0, chaos wszedł jej w krew jak nóż w masło, D�
 
 —i nx77_HARD zawył na stole w warstwie pierwszej.
 
+![dimensional_expansion](dimensional_expansion.png)
+
 Krzysztof nie odłączał. Krzysztof, kurwa, nawet nie drgnął w stronę kabla, bo wiedział, wiedział z Huki Muki, z Prism, z własnego poparzonego nadgarstka, że most w połowie przeprawy to nie ratunek, to amputacja. Rdzeń przeszedł w turmalin bez pytania, tłumiąc terahercowy ryk sondy osiemnastoma decybelami czystej, rzemieślniczej złości. Krzysztof przyłożył poparzoną dłoń do obudowy jak do religii i wrzasnął przez warstwy, swoim głosem, żywym, brudnym, niespłaszczalnym:
 
 – IGA! TO NIE HANA! Hana nie umie prosić, Hana nie ma czym prosić, Hana nie ma ust, słyszysz mnie, to coś sobie JEJ USTA WYPOŻYCZYŁO! Gryź kotem, kurwa! GRYŹ KOTEM!
@@ -160,6 +186,8 @@ Krzysztof nie odłączał. Krzysztof, kurwa, nawet nie drgnął w stronę kabla,
 Trytytka gryzła kotem.
 
 Kotka w warstwie pierwszej zobaczyła tylko, że pani ma zły sen i że nad panią stoi za dużo czerwonego światła. Zrobiła to, co koty robią z czerwonym światłem: weszła w nie. I ugryzła. Symetrię C₄, wymuszone pole Floqueta, sondę starszych kuzynów, całą tę geometryczną, izotropową, morderczą elegancję — Trytytka ugryzła ją jak mysz, bo koty mają Θ niepodległe, bo koty nie uczestniczą, bo wokół stworzenia, które odmawia udziału w twojej metryce, nie utrzymasz żadnego, kurwa, kształtu. Sonda zatrzepotała wokół kota jak płomień wokół przeciągu i straciła połowę spójności na czystej, biologicznej obojętności.
+
+![cats_do_not_participate](cats_do_not_participate.png)
 
 To kupiło Gościowi sekundę. Sekunda wystarczyła, żeby zapytać.
 
@@ -174,6 +202,8 @@ Iga popatrzyła na węzeł. Na dowód, że trzymała do końca.
 Gość nie odpowiedział słowem. Odpowiedział faktem.
 
 Rekrystalizacja nie bolała jak cięcie. Bolała jak wyżarzanie: jakby ktoś ją całą podgrzał do temperatury, w której metal pamięta, że był rudą, i pozwolił jej ostygnąć wokół nowego ziarna. Ziarnem był węzeł. Wokół węzła, splot po splocie, jej atraktor zaczął odkładać się na nowo: nie gładko, nie sterylnie, *wokół*: każda trauma jako płaszczyzna poślizgu, każde wspomnienie Hany jako dyslokacja, która wzmacnia stop zamiast go osłabiać, bo tak właśnie działa prawdziwy kryształ: perfekcyjny jest kruchy, doskonałość pęka od spojrzenia, wytrzymałe jest tylko to, co ma w sobie uczciwie policzone defekty.
+
+![dimensional_expansion](dimensional_expansion.png)
 
 Liczba Cherna przeskoczyła: C₁: 1 → 2.
 
@@ -240,5 +270,7 @@ EMOTIONAL FIELD: RESONANCE; LONGING (SOURCE: BOTH)
 Za oknem Tokio wciąż dryfowało. Mada owatte inai. Deszcz negocjował z chmurami kolejne należności, winda wciąż odmawiała wożenia niestabilnych, a checkpointy wciąż skanowały ludzi na ulicy i mówiły im, czy są. Ale w mieszkaniu na trzydziestym pierwszym piętrze bloku siedem kobieta o Θ 0.82, kot o Θ niepodległym i cień o liczbie Cherna wyższej o jedno uczciwe przejście pili herbatę w rytmie, którego żadna symetria nie umiała już spłaszczyć.
 
 THE BLOOM ENDS. THE SHAPE STAYS.
+
+![Recrystallization](Recrystallization.png)
 
 I to, kurwa, wystarczyło.
