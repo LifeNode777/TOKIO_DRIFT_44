@@ -67,7 +67,7 @@ tradesman-grade engineering included.**
 
 ---
 
-# 🌀 Δ-R // RECRYSTALLIZATION 👹
+## 🌀 Δ-R // RECRYSTALLIZATION 👹
 
 A multi-part narrative centred around Iga, a woman whose
 coherence has fallen to Θ = 0.287.
