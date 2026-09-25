@@ -71,6 +71,8 @@ tradesman-grade engineering included.**
 
 ## 🌀 Δ-R // RECRYSTALLIZATION 👹
 
+![PHASEPUNK — Trajectories](PHASEPUNK_TRAJECTORIES.gif)
+
 A multi-part narrative centred around Iga, a woman whose
 coherence has fallen to Θ = 0.287.
 
