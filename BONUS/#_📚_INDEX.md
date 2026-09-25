@@ -58,6 +58,8 @@ Compatibility emerges through geomet...
 
 ## 🍸 ZAPŁADNIATOR 3000 🕺🏻💃🏻
 
+![absurd GIF](ZAPLADNIATOR_3000_ABSURD_GITHUB.gif)
+
 Before the Drift becomes history, Krzysztof encounters
 Prism — Mantis hybrid whose biological field is
 dangerous to an ordinary human nervous sys...
