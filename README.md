@@ -1,3 +1,5 @@
+museum_of_dead_technology.png![museum_of_dead_technology](museum_of_dead_technology.png)
+
 ISSUE 5 IS COMING ☄️
 
 ![ISSUE_5_IS_COMING](ISSUE_5_IS_COMING.jpg)
