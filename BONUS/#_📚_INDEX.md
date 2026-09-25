@@ -18,6 +18,8 @@ having to excavate the whole thing manually.
 
 ---
 
+![BONUS_Archive_2](BONUS_Archive_2.png)
+
 # 📖 STORIES
 
 ## 🌀 ATAK NA TOPOLOGIĘ (1/2👹)
