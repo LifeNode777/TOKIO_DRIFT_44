@@ -121,6 +121,8 @@ her internal attractor begins to collap...
 
 ## HARDCORE STORY 🙃 👹👹👹
 
+![XPT_RUI_PHASEPUNK_SERIES_GITHUB_GIF](XPT_RUI_PHASEPUNK_SERIES_GITHUB.gif)
+
 The complete story exists as a single commit containing the
 full visual sequence:
 **XPT-RUI_1 → XPT-RUI_2 → XPT-RUI_3 → XPT-RUI_4 → XPT-RUI_5 → XPT-RUI_6_FINAL**
