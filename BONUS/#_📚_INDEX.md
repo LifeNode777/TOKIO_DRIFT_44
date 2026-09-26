@@ -24,6 +24,8 @@ having to excavate the whole thing manually.
 
 ## 🌀 ATAK NA TOPOLOGIĘ (1/2👹)
 
+![ATAK_NA_TOPOLOGIE_PHASEPUNK_GITHUB_GIF](ATAK_NA_TOPOLOGIE_PHASEPUNK_GITHUB.gif)
+
 **Setting:** New Eden-7 station, Europa orbit, 2049.
 
 A Q-Core habitat is attacked by entities that do not invade
@@ -89,6 +91,8 @@ Iga encounters a being known simply as the Guest.
 # 🧠 CHARACTER STORIES
 
 ## ⚙️ POWOLNIAK — HARD 👹
+
+![POWOLNIAK_HARD_SLOW_GITHUB_GIF](POWOLNIAK_HARD_SLOW_GITHUB.gif)
 
  about Powolniak at the point where
 her old definition of herself begins to fail.
