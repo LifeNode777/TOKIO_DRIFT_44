@@ -1,3 +1,6 @@
+sPlAsH W CHUJ PAGE:
+![last_party_before_the_drift](last_party_before_the_drift.png)
+
 museum_of_dead_technology.png![museum_of_dead_technology](museum_of_dead_technology.png)
 
 ISSUE 5 IS COMING ☄️
