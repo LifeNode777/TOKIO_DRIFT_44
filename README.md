@@ -1,3 +1,6 @@
+issue 5 FIRST page
+![issue 5 first page](phase_invasion_detected.png)
+
 sPlAsH W CHUJ PAGE:
 ![last_party_before_the_drift](last_party_before_the_drift.png)
 
