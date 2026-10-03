@@ -1,3 +1,6 @@
+🥂
+![🥂](Grzybia_Bar_Menu.png)
+
 issue 5 FIRST page
 ![issue 5 first page](phase_invasion_detected.png)
 
