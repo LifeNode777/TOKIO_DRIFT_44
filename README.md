@@ -1,13 +1,8 @@
 🥂
 ![🥂](Grzybia_Bar_Menu.png)
 
-issue 5 FIRST page
-![issue 5 first page](phase_invasion_detected.png)
-
-sPlAsH W CHUJ PAGE:
-![last_party_before_the_drift](last_party_before_the_drift.png)
-
-museum_of_dead_technology.png![museum_of_dead_technology](museum_of_dead_technology.png)
+Buuu! 👻
+![message_from_ChatGPT_...LOL](message_from_ChatGPT_...LOL.png)
 
 ISSUE 5 IS COMING ☄️
 
