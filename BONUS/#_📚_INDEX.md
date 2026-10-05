@@ -73,6 +73,33 @@ tradesman-grade engineering included.**
 
 ---
 
+## 👁️ THE THING THAT REFUSED TO HAVE A SHAPE 🤯
+
+**CASE 44-Ø — STATUS: UNRESOLVED**
+
+A research object that refuses to remain an object.
+
+Six classification attempts.
+Six failures.
+One increasingly uncomfortable observation:
+
+**the thing does not change when observed.  
+The process changes when it is described.**
+
+A PHASEPUNK story about observation, models, publication, feedback, and the possibility that the thing being studied is not an object at all.
+
+Maybe it is a process.
+
+Maybe it is a relation.
+
+Maybe the experiment includes you.
+
+**CASE 44-Ø remains unresolved.**
+
+👉 [Enter THE THING THAT REFUSED TO HAVE A SHAPE](./the_THING_THAT_REFUSED%20TO_HAVE_A_SHAPE.md)
+
+---
+
 ## 🌀 Δ-R // RECRYSTALLIZATION 👹
 
 ![PHASEPUNK — Trajectories](PHASEPUNK_TRAJECTORIES.gif)
