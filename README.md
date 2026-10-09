@@ -1,3 +1,6 @@
+WEEKEND KURWA
+![ISSUE_5_WEEEKEND_KURWA_PAGE 😂](ISSUE_5_WEEEKEND_KURWA_PAGE.png)
+
 rOOt Access
 ![Powolniak_Gliniasty_Bios_Root_Access](Powolniak_Gliniasty_Bios_Root_Access.png)
 
