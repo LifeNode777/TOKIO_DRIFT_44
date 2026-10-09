@@ -1,16 +1,11 @@
+rOOt Access
+![Powolniak_Gliniasty_Bios_Root_Access](Powolniak_Gliniasty_Bios_Root_Access.png)
+
 🥂
 ![🥂](Grzybia_Bar_Menu.png)
 
 Buuu! 👻
 ![message_from_ChatGPT_...LOL](message_from_ChatGPT_...LOL.png)
-
-ISSUE 5 IS COMING ☄️
-
-![ISSUE_5_IS_COMING](ISSUE_5_IS_COMING.jpg)
-
-ISSUE 5 IS COMING ☄️ kurwa
-
-![Jeszcze_nie_wiemy_ale_idziemy_razem](Jeszcze_nie_wiemy_ale_idziemy_razem.png)
 
 ---
 
