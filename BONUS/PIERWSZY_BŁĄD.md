@@ -12,7 +12,7 @@ Dziś też miało być idealnie. O 7:58 stał na skrzyżowaniu w Shibuyi razem z
 ZAPLANOWANA KOREKTA KOHERENCJI MIEJSKIEJ. Θ: 0.81 → 0.60. PROSIMY ZACHOWAĆ SPOKÓJ. DZIĘKUJEMY ZA ZROZUMIENIE.
 Wisiał od tygodnia. Przy 0.81 ludzie nie reagują na rzeczy, które wiszą.
 
-![Pierwszy_Błąd_1](BONUS/Pierwszy_Błąd_1.png)
+![Pierwszy_Błąd_1](Pierwszy_Błąd_1.png)
 
 Zielone. Trzy tysiące ludzi ruszyło jednym organizmem, bez jednego zderzenia, jak woda spływająca po szkle. Kenji szedł w tym prądzie, spokojny, ciepły, zbędny jako jednostka, i bardzo mu to odpowiadało.
 Na środku skrzyżowania zegar na wieżowcu przeskoczył na 8:00:00.
@@ -25,11 +25,11 @@ Dziewczyna z różowymi włosami szła prosto na niego, tak jak zawsze ktoś sze
 – Przepraszam – powiedział.
 – Przepraszam – powiedziała dziewczyna, dokładnie w tej samej sekundzie.
 
-![Pierwszy_Błąd_2](BONUS/Pierwszy_Błąd_2.png)
+![Pierwszy_Błąd_2](Pierwszy_Błąd_2.png)
 
 Prąd wokół nich zawahał się. Trzy tysiące ludzi, którzy zawsze wiedzieli, gdzie postawić stopę, musiało nagle zdecydować. Ktoś zrobił krok w lewo, bo spodziewał się, że ktoś zrobi krok w prawo, a ten ktoś zrobił krok w lewo. Dwoje nieznajomych zatańczyło ze sobą w kółko przez trzy sekundy, aż jedno parsknęło nerwowo, drugie zawtórowało i zbiorowy organizm pękł...
 
-![Pierwszy_Błąd_3](BONUS/Pierwszy_Błąd_3.png)
+![Pierwszy_Błąd_3](Pierwszy_Błąd_3.png)
 
 ### 08:44 — Szef
 
@@ -46,7 +46,7 @@ Kłamstwo wyszło z niego bez żadnego tarcia. Najbardziej przerażające było 
 Sakamoto wypuścił powietrze. Cała jego twarz się rozluźniła, jakby ktoś wyciągnął mu z kręgosłupa pręt.
 – Ach – powiedział. – System. No tak. Oczywiście, że system.
 
-![Pierwszy_Błąd_4](BONUS/Pierwszy_Błąd_4.png)
+![Pierwszy_Błąd_4](Pierwszy_Błąd_4.png)
 
 Obaj wiedzieli. Nie wiedzieli co, ale wiedzieli. Kłamstwo było prezentem dla nich obu: Sakamoto dostał coś, na co mógł być zły, nie będąc zły na nikogo konkretnego, a Kenji dostał... Chyba przestrzeń. Pięć centymetrów luzu w świecie, który przez trzydzieści osiem lat był ciasny jak własna skóra.
 – Wie pan co – powiedział Sakamoto po dłuższej chwili, patrząc na miasto za oknem, które nagle wyglądało inaczej, bardziej kanciaste i bardziej żywe. – Na śniadanie zjadłem dziś ramen.
@@ -67,14 +67,14 @@ Poczuł strach, prawdziwy, w żołądku i w dłoniach, który w ciągu sekundy r
 
 Pobiegł.
 
-![Pierwszy_Błąd_5](BONUS/Pierwszy_Błąd_5.png)
+![Pierwszy_Błąd_5](Pierwszy_Błąd_5.png)
 
 Przez schody, przez korytarz, przez ludzi rozstępujących się nierówno, w dziwnych rytmach, i zdążył. Drzwi Tōyoko zamknęły się za jego plecami z miękkim syknięciem.
 Stał w wagonie, bez planu, bez pojęcia, co będzie za dziesięć minut, ze zdyszanymi płucami i trzęsącymi się rękami, w mieście, które właśnie przestało być jego. Pociąg ruszył.
 Przy oknie siedziała pani Tanabe z HR. Spojrzała na niego. Nie powiedziała nic. Uniosła tylko brwi, a w kącikach jej ust drgnęło coś, czego żadne z nich nie umiałoby nazwać.
 Kenji uśmiechnął się, krzywo, nieładnie, tak jak uśmiecha się ktoś, kto dopiero się uczy.
 
-![Pierwszy_Błąd_6](BONUS/Pierwszy_Błąd_6.png)
+![Pierwszy_Błąd_6](Pierwszy_Błąd_6.png)
 
 Po raz pierwszy w życiu nie wiedział, co będzie dalej. Było to przerażające. Było to najlepsze, co mu się przytrafiło od czasu czterech jenów.
 Gdzieś głęboko pod miastem Q-Core trzymał nową nutę.
