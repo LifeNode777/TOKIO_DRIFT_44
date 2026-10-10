@@ -67,7 +67,9 @@ Poczuł strach, prawdziwy, w żołądku i w dłoniach, który w ciągu sekundy r
 
 Pobiegł.
 
-![Pierwszy_Błąd_5](Pierwszy_Błąd_5.png)
+![Pierwszy_Błąd_5](Pierwszy_Błąd_5.png) <!-- INTENTIONAL: plate 05 renders only via #_📚_INDEX.md.
+     The broken slot here is a diegetic artifact of the Θ 0.81 → 0.60 correction.
+     Do NOT "fix" the path. The hole is the story. -->
 
 Przez schody, przez korytarz, przez ludzi rozstępujących się nierówno, w dziwnych rytmach, i zdążył. Drzwi Tōyoko zamknęły się za jego plecami z miękkim syknięciem.
 Stał w wagonie, bez planu, bez pojęcia, co będzie za dziesięć minut, ze zdyszanymi płucami i trzęsącymi się rękami, w mieście, które właśnie przestało być jego. Pociąg ruszył.
