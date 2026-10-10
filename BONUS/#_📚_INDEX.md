@@ -58,6 +58,22 @@ Compatibility emerges through geomet...
 
 ---
 
+## 🚦 PIERWSZY BŁĄD 🚶🏻‍♂️💼
+
+**Setting:** Shibuya Crossing, Tokyo. 07:58 AM.
+
+08:00 AM city's coherence drops from Θ = 0.81 to 0.60. 
+For the main characters, it's a phase drift. 
+For Kenji Aoyama, an ordinary accountant, it's the first time in 38 years he doesn't know what happens next.
+
+![Pierwszy_Błąd_5](Pierwszy_Błąd_5.jpg)
+
+> The first mistake. The first lie. The first breath.
+
+👉 [Read PIERWSZY BŁĄD](./PIERWSZY_BŁĄD.md)
+
+---
+
 ## 🍸 ZAPŁADNIATOR 3000 🕺🏻💃🏻
 
 ![absurd GIF](ZAPLADNIATOR_3000_ABSURD_GITHUB.gif)
