@@ -1,3 +1,6 @@
+Trzy Siódemki nie szóstki 🚬
+[![Polando Favela 🙃](https://img.youtube.com/vi/tssNBsJ49h0/hqdefault.jpg)](https://youtu.be/tssNBsJ49h0)
+
 WEEKEND KURWA
 ![ISSUE_5_WEEEKEND_KURWA_PAGE 😂](ISSUE_5_WEEEKEND_KURWA_PAGE.png)
 
