@@ -10,9 +10,6 @@ rOOt Access
 🥂
 ![🥂](Grzybia_Bar_Menu.png)
 
-Buuu! 👻
-![message_from_ChatGPT_...LOL](message_from_ChatGPT_...LOL.png)
-
 ---
 
 To examine the fabric of reality fragmented by a reductionist paradigm and claim that there is no global field in it is like taking a watch apart, pouring acid on it and claiming that "time does not flow out of it."
