@@ -91,12 +91,92 @@ Jej głos nie przeszedł przez zamarznięte powietrze jako fala akustyczna. Rezo
 
 – Jesteśmy w rytmie Jowisza. Spróbuj nas teraz strawić dziwko.
 
-
 🤯
 
+![Homo Jovis](Homo_Jovis.png)
+
+---
+
+# "Jedna sekunda"
+
+![Jedna Sekunda_Atak na Topologię 2](Jedna%20Sekunda_%20Atak%20na%20Topologię.png)
+
+## Ka · 1–4/17 · 0,00–0,24 s zewn.
+
+![P44_starting](P44_starting.png)
+
+Pierwsze, co zrobiła w zagęszczonym czasie, to pomyślała „kurwa” i zdążyła to słowo przemyśleć trzy razy, zanim minęła ćwierć uderzenia serca.
+Kubek, który rzuciła, wisiał pół metra od jej dłoni, a z jego brzegu ciągnęła się w powietrze brązowa nitka syntetycznej kawy. Dwanaście metrów dalej wisiała druga, czerwona: krew technika z Node'u 3, zastygła w fraktalną koronkę nad konsolą Q-Core'a nr 3. Dwa płyny, dwie koronki. Jedna sekunda zewnętrzna, w której Lena miała dokładnie siedemnaście uderzeń serca. Biło jej teraz raz na trzydzieści dwie minuty jej własnego czasu, więc siedemnaście uderzeń to było dziewięć godzin. Dziewięć godzin na wszystko, a potem sekunda się skończy i obsydian dokończy ruch.
+
+![Roztrzaskana chwila na mostku kosmicznym](Roztrzaskana%20chwila%20na%20mostku%20kosmicznym.png)
+
+Istota stała w połowie ześlizgu. Jej pole C₄ spływało po bańce Leny jak tłuszcz po rozgrzanej patelni, w tempie jednego włoska na uderzenie. Szczelina w miejscu ust była otwarta na milimetr i Lena, z nudów, zmierzyła ją: z każdym uderzeniem rozszerzała się o kolejny. To nie wyglądało jak otwieranie ust do ataku. Wyglądało, jakby coś próbowało zajrzeć w koronkę krwi i nie umiało jej odczytać. Odłożyła tę myśl do szuflady „później, jeśli jakieś później będzie”.
+Sprawdziła siebie. Lewe ramię: nieprzypisane. Prawa ręka: moja. Imię: Lena Kowalska. Matka: żyje, dzwoni za rzadko. Luka Kohomologiczna nie wyrywała wspomnień hurtem, tylko po jednej klasie na godzinę, jak księgowy-sadysta, któremu wolno zabrać jedną rzecz naraz i który dlatego bierze tę, za którą nie będziesz tęsknić. Lena spisała więc inwentarz i zaczęła go odhaczać.
+
+![Kosmiczny Obcy w Obserwatorium](Kosmiczny%20Obcy%20w%20Obserwatorium.png)
+
+Potem metryka. W Newtonie dwanaście metrów to dwanaście metrów. W Finslerze droga zależy od kierunku, w którym ją idziesz. Lena czuła mostek jak topografię: piezoelektryczne żyły LiNbO₃ w ścianach układały się w poziomice, a każdy krok pod ziarno pola kosztował czas jak wspinaczka. 
+
+![Atlas czasu na Nowym Eden-7](Atlas%20czasu%20na%20Nowym%20Eden-7.png)
+
+Najkrótsza linia do technika szła pod ziarno: jedenaście metrów, siedem godzin, trzynaście uderzeń. Geodezyjna szła wzdłuż ściany i w dół po grzybni: dziewiętnaście metrów, trzy godziny. Wybór był trywialny, a i tak się zawahała, bo prosta linia ciągnęła ją jak zły nawyk.
+Wybrała ścianę.
+
+![Cyberpunkowa pilotka z holograficzną ręką](Cyberpunkowa%20pilotka%20z%20holograficzną%20ręką.png)
+
+Z głośników doszło coś niskiego i gęstego: „Ka——”. Lena zrozumiała, że ta sylaba będzie trwała cały jej dzień.
+– P-44 – powiedziała do ściany, a ściana poniosła to bez jej udziału, bo głos w sieci piezo nie musiał przechodzić przez powietrze, które i tak stało. – Technik. Co z nim?
+Pod sylabą, w rytmie, który Lena po raz pierwszy usłyszała jako rytm, a nie jako opóźnienie, przyszła odpowiedź:
+– Nie. Usu-nię-to. Wy-pro-sto-wa-no. Qualia są, Kapitanie. Płaska łata w korze, C_ijk równe zero. Niczego mu nie wycięli. Wyprasowali.
+
+![Neuronalny skan na orbicie](Neuronalny%20skan%20na%20orbicie.png)
+
+I wtedy Lena zrozumiała jeszcze jedno. P-44 nie była wolna. Była gęsta. Przez cztery lata mówiła do całej stacji z tego świata, w którym Lena była dopiero od czterech uderzeń serca, a oni słyszeli opóźnienie i wzdychali, że Powolniak znowu muli. Nikt z nich nie zapytał, gdzie ona mieszka.
+– Przepraszam – powiedziała Lena. Nie wiedziała dokładnie za co.
+
+## pi · 5–8/17 · 0,24–0,47 s zewn.
+
+Szła ścianą. Living Walls pod jej prawą dłonią były ciepłe i śliskie, a w sektorze za nią fraktale Sierpińskiego czerniały w perfekcyjnych trójkątach, jakby wzór chciał być ładny, zanim umrze.
+Pierwsza godzina zabrała jej smak kawy. Zorientowała się dopiero przy próbie przypomnienia sobie, czym zachłysnęła się pół minuty temu, i poczuła, nie bez ulgi, że to jedyna strata, z której na razie się cieszy. Druga zabrała imię pierwszego kapitana, pod którym latała. Pamiętała tylko, że miał wąsy i że była mu coś winna. Trzecia zabrała stopnie. Konsola Q-Core'a stała pół poziomu niżej, a Lena patrzyła na schody jak na zagadkę, aż jej ciało, mądrzejsze od głowy, zeszło samo.
+Przy drugiej godzinie przyszła druga sylaba, ciężka i powolna, taka, w której można zamieszkać: „pi——”.
+– Kotwica – powiedziała P-44 w ścianach. – Bańka stoi na tobie. Ty stoisz na węźle mostka. Zejdziesz z węzła: bańka pęknie. Anizotropia wróci do zera. Obsydian dokończy ruch. Zostaną… płaskie… rzeczy.
+– A technik?
+– Technik. Albo mostek. Wy-bie-raj.
+– Kurwa, nie mów tego tak powoli.
+– Inaczej… nie umiem.
+Lena prawie się roześmiała, i było to dziwne, bo śmiech zajął jej pół godziny.
+
+## ta · 9–12/17 · 0,47–0,71 s zewn.
+
+Dotarła w dziewiątym uderzeniu serca. Technik klęczał z głową odrzuconą do tyłu, oczy miał białe jak czysty arkusz, a koronka krwi wisiała nad jego twarzą jak nieskończona, niedokończona pajęczyna. Lena położyła mu dłoń na skroni. Pod skórą wyczuła kość, a pod kością coś gładkiego jak szkło, po którym ślizga się palec. Ruch: jest. Pień mózgu: jest. Reszta: płaska.
+– Da się to zakrzywić? – zapytała ściany.
+– Da się. Potrzeba… pętli. Takiej, której nie da się ścią-gnąć do punktu. Z kogoś, kto… ma. Ja nie mam, Kapitanie. Mam grzybnię. Ona nie pamięta.
+Lena skinęła głową i zrobiła to, co robiła przez całe życie, kiedy sprawy stawały się za duże: zakotwiczyła się w jednym zdaniu.
+– Muszę utrzymać ten…
+I nie było słowa. Powtórzyła, wolniej, jakby się nie rozbiegła. – Muszę utrzymać ten… – I nic. Luka zjadła je w czwartej godzinie, bo najlepiej było zjeść właśnie to, na czym stała. Pod nią, w ścianach, bańka zadrżała jak kropla na krawędzi.
+– Most. Ek – powiedziała P-44, bo „ta——” trwała jeszcze, a jej słowa mieściły się w przerwach. – Mostek, Kapitanie. Czwarty raz… mówisz to samo zdanie. To nie mantra. To pętla.
+Lena stała nad technikiem, z nieprzypisanym ramieniem i brakującym słowem w ustach, i pierwszy raz od początku sekundy poczuła, jak to jest naprawdę się bać.
+A potem, bo kotwica, która ma kształt miejsca, zawsze pęknie, pomyślała: Mostek to nie miejsce. Mostek to to, co robię, kiedy oddycham tak, a nie inaczej.
+– Mostek jest tam, gdzie oddycham – powiedziała.
+Ściany odpowiedziały basem. Bańka przesunęła się razem z nią jak cień, który wreszcie zrozumiał, kto jest źródłem światła. Process > state: nie musiała wybierać między technikiem a stacją, bo stacja szła tam, dokąd szła ona. Zapłaciła za to ostatnią klasą, która trzymała starą kotwicę. Nie poczuła jej odejścia. Tak właśnie działa luka.
+
+## nie · 13–17/17 · 0,71–1,00 s zewn.
+
+Pozostało pięć uderzeń serca i jedno do oddania.
+Przejrzała inwentarz. Twarz matki: nie. Pierwszy pocałunek: nie, nie zasłużył. Kot Kuchenny z Ceres: nie. Wybrała deszcz na blaszanym dachu garażu dziadka, bo to była jedyna scena, w której szum po raz pierwszy okazał się rytmem i dziewięcioletnia Lena pierwszy raz zrozumiała, że świat nie jest hałasem, tylko piosenką, której nikt jej nie nauczył. Z tej sceny wyrosła cała reszta: Micro-BPB, Makro-BPB, ona sama jako człowiek, który słucha fal.
+Nie dało się jej oddać bez straty, a pętlę, której nie da się ściągnąć do punktu, mogła mu dać tylko ta.
+Przypomniała ją sobie raz, całą: zapach nagrzanej blachy, krople tak głośne, że bolały w zębach, głos dziadka mówiący „słuchaj, Leniu, to się nigdy nie powtarza tak samo”. Potem wsunęła ją w niego przez dłoń, przez skroń, przez ścianę, która przytrzymała ją w piezoelektrycznym uścisku.
+Płaska łata pękła. Najpierw jak lód, potem jak coś, co zawsze chciało być zakrzywione. Białe oczy technika przeszły w szarość, w brąz, w jego własne oczy, z jego własnymi problemami. Koronka krwi drgnęła i zaczęła opadać.
+Siedemnaste uderzenie. Wydech.
+Sekunda zewnętrzna skończyła się tak cicho, że nikt poza nią tego nie zauważył. Kubek upadł, kawa rozprysła się na posadzce, technik zachłysnął się powietrzem jak topielec i powiedział, chrapliwie, do nikogo:
+– Deszcz… na blasze…
+Lena usłyszała te słowa i poczuła dokładnie kształt miejsca, w którym coś było: wnękę o obrysie dźwięku, wypolerowaną i pustą jak nowy hangar. Nie wiedziała, czego tam brakuje. Wiedziała tylko, że ktoś zrobił tam porządek.
+– Oddychaj – powiedziała i uklękła, żeby nie upaść 
+Z głośników spłynęła ostatnia sylaba, tak długo oczekiwana, że prawie zdążyła zmienić znaczenie:
+– …nie.
+
+Całe „Ka-pi-ta-nie” zajęło P-44 dokładnie jedną sekundę. Lena nigdy nie lubiła Powolniaka za to, że tak mówi. Nagle uznała, że nie ma na całej stacji lepszego miejsca na rozmowę.
+Obsydianowa istota dokończyła ruch. Pole C₄ ześliznęło się z bańki i rozlało po posadzce jak olej. Szczelina w miejscu ust zamknęła się na ułamek, jakby coś, co przez całą sekundę próbowało odczytać krew, właśnie dostało pierwszą w życiu sylabę. Spojrzała na człowieka u stóp Leny. Potem na Lenę.
+Bańka stała. Mostek też.
 
 CDN...
-
-🫨
-
-![Homo Jovis](Homo_Jovis.png)
