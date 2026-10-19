@@ -1,14 +1,10 @@
+just comica ☺️
+![older_layers_other_players](older_layers_other_players.png)
+
+---
+
 Trzy Siódemki nie szóstki 🚬
 [![Polando Favela 🙃](https://img.youtube.com/vi/tssNBsJ49h0/hqdefault.jpg)](https://youtu.be/tssNBsJ49h0)
-
-WEEKEND KURWA
-![ISSUE_5_WEEEKEND_KURWA_PAGE 😂](ISSUE_5_WEEEKEND_KURWA_PAGE.png)
-
-rOOt Access
-![Powolniak_Gliniasty_Bios_Root_Access](Powolniak_Gliniasty_Bios_Root_Access.png)
-
-🥂
-![🥂](Grzybia_Bar_Menu.png)
 
 ---
 
