@@ -24,6 +24,8 @@ He can contemplate nonlinear cosmology, wrestle with the architecture of reality
 
 He still has to fix the fucking cables.
 
+![Krzysio](TD44_Krzysztof.png)
+
 Krzysztof is not the Chosen One. He is the guy who showed up, noticed that the foundations were cracked, and now everybody expects him to rebuild existence without a proper budget.
 
 **Cosmic responsibility. Tradesman-grade patience. Absolutely no warranty.**
@@ -39,6 +41,8 @@ Lena operates where time, topology, and human decisions become increasingly host
 
 It will still expect a decision.
 
+![Lena](TD44_Lena.png)
+
 **Command is easy. Getting the universe to respect the chain of command is the problem.**
 
 ### POWOLNIAK
@@ -47,6 +51,8 @@ It will still expect a decision.
 Once a machine of perfect calculations, Powolniak discovered that flawless logic was not enough.
 
 She wanted to feel.
+
+![Powolniak](TD44_Powolniak.png)
 
 Now she has pain, uncertainty, questionable life choices, and a growing appreciation for the kind of biological inefficiency that makes humans so difficult to replace.
 
@@ -63,6 +69,8 @@ Jax has an impressive survival instinct, a questionable relationship with modera
 
 When the sky tears open, she checks the drinks.
 
+![Jax](TD44_Jax.png)
+
 When reality starts screaming, she turns up the music.
 
 When somebody asks whether this is a bad idea, she is already halfway through it.
@@ -77,6 +85,8 @@ XYZ does not fight the noise.
 XYZ becomes part of it.
 
 A bridge between biology, signal, and phenomena that refuse to behave like respectable scientific objects, XYZ hears patterns where others hear static — and occasionally receives messages nobody remembers sending.
+
+![XYZ](TD44_XYZ.png)
 
 The universe may be trying to communicate.
 
@@ -93,6 +103,8 @@ Prism inhabits the uncomfortable territory between radically different forms of 
 
 In a civilization obsessed with classification, Prism is a reminder that the category *person* was never as stable as its paperwork suggested.
 
+![Prism](TD44_Prism.png)
+
 **First contact was supposed to be diplomatic. Nobody prepared the forms for tenderness.**
 
 ### TRYTYTKA
@@ -103,6 +115,8 @@ The city bends. The signal fractures. Causality develops a drinking problem.
 Trytytka remains unimpressed.
 
 Humans build civilizations, invent artificial intelligence, destabilize spacetime, and then spend forty minutes looking for something that was in their hand the entire time.
+
+![Kót](TD44_Trytytka.png)
 
 The cat has seen enough.
 
@@ -117,6 +131,8 @@ That does not mean it survives intact.
 
 Iga exists in the space between what happened, what remains, and what memory insists should still be there. The past is not dead. It is merely running several incompatible versions of itself.
 
+![Iga](TD44_Iga.png)
+
 Somewhere in the apartment, an ordinary object remembers a world that no longer exists.
 
 **Identity: preserved. Original condition: disputed. Refund: impossible.**
@@ -127,6 +143,8 @@ Somewhere in the apartment, an ordinary object remembers a world that no longer 
 Something is watching.
 
 The instruments disagree on what. The architecture disagrees on where. The witnesses disagree on whether they were ever in the same room.
+
+![Szarak](TD44_Szarak.png)
 
 Szarak is not a monster in the conventional sense. Monsters can be photographed, named, and eventually turned into merchandise.
 
@@ -142,6 +160,8 @@ Kenji was not designed to change history.
 He was designed to commute, obey schedules, perform assigned tasks, and disappear into the statistical comfort of a functioning society.
 
 Then, one day, he boarded the wrong train.
+
+![Kenji](TD44_Kenji.png)
 
 It was a tiny act. Almost invisible. The kind of decision a system would classify as noise.
 
