@@ -1,10 +1,4 @@
-just comica ☺️
-![older_layers_other_players](older_layers_other_players.png)
-
----
-
-Trzy Siódemki nie szóstki 🚬
-[![Polando Favela 🙃](https://img.youtube.com/vi/tssNBsJ49h0/hqdefault.jpg)](https://youtu.be/tssNBsJ49h0)
+![tak to jest 🙃](BONUS/TOKIODRIFT44_because....png)
 
 ---
 
