@@ -1,3 +1,5 @@
+![Wyprawa](BONUS/Wyprawa.png) 
+
 ![tak to jest 🙃](BONUS/TOKIODRIFT44_because....png)
 
 ---
