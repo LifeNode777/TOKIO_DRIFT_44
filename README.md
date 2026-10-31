@@ -1,3 +1,7 @@
+![Zenodo_have_one_year_tonight_Dziady_2026](BONUS/Zenodo_have_one_year_tonight_Dziady_2026.png)
+
+---
+
 ![Wyprawa](BONUS/Wyprawa.png) 
 
 ![tak to jest 🙃](BONUS/TOKIODRIFT44_because....png)
@@ -21,8 +25,6 @@ To examine the fabric of reality fragmented by a reductionist paradigm and claim
 
 ---
 </div>
-
-![🐌](BONUS/jutro_też_nie_zdążysz.png)
 
 ---
 
