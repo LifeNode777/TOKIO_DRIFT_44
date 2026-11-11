@@ -1,10 +1,12 @@
-![Zenodo_have_one_year_tonight_Dziady_2026](BONUS/Zenodo_have_one_year_tonight_Dziady_2026.png)
+11 listopada 2026
+
+![11_listopada_xD](BONUS/11_listopada_xD.png)
 
 ---
 
-![Wyprawa](BONUS/Wyprawa.png) 
+31 października 2026
 
-![tak to jest 🙃](BONUS/TOKIODRIFT44_because....png)
+![Zenodo_have_one_year_tonight_Dziady_2026](BONUS/Zenodo_have_one_year_tonight_Dziady_2026.png)
 
 ---
 
