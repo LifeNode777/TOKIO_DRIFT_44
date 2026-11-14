@@ -1,12 +1,11 @@
-11 listopada 2026
-
-![11_listopada_xD](BONUS/11_listopada_xD.png)
+SOBOTA
+![SOBOTA](BONUS/jobe_jobe.png)
 
 ---
 
-31 października 2026
+11 listopada 2026
 
-![Zenodo_have_one_year_tonight_Dziady_2026](BONUS/Zenodo_have_one_year_tonight_Dziady_2026.png)
+![11_listopada_xD](BONUS/11_listopada_xD.png)
 
 ---
 
