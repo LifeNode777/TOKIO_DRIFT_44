@@ -1,11 +1,5 @@
-SOBOTA
-![SOBOTA](BONUS/jobe_jobe.png)
-
----
-
-11 listopada 2026
-
-![11_listopada_xD](BONUS/11_listopada_xD.png)
+chciała "na kawę" 😊
+![cipki i ich rozkminy 😝](BONUS/chciała_na_kawę.png)
 
 ---
 
